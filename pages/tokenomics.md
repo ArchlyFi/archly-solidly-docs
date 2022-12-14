@@ -41,7 +41,7 @@ Combined, the _ve(3,3)_ mechanism rewards behaviors correlated with Archly's suc
 liquidity provision and long-term token holding. Liquidity providers receive `$Arc` emissions,
 and `$veArc` holders receive protocol fees, bribes, and rebases.
 
-![image](/archly-flows.png)
+![image](/archly_flows.png)
 
 Below, we will walk through the components of the mechanism in order to
 explain how it helps the incentives flow to the most valuable of the ecosystem
@@ -115,16 +115,17 @@ emissions will be going to the team address.
 
 ## Emissions
 
-The initial supply of `$Arc` is 30M.
+The initial supply of `$Arc` was 30M.
 
 Weekly emissions started at about 15.58M `$Arc` (3.75% of the initial supply)
-and decay at 1% per week (epoch).
+and decay at 2% per week (epoch).
 
 `$veArc` holders receive a rebase proportional to epoch LP emissions
 and the ratio of `$veArc` to `$Arc` supply, thus reducing vote power
 dilution for `$veArc`!
 
-`$veArc` supply does not affect weekly LP emissions.
+`$veArc` supply does not affect weekly LP emissions. Said another way, `$veArc ` voting only determines
+the distribution of `$Arc` during the next week of LP emissions.
 
 ## Gauge Voting
 

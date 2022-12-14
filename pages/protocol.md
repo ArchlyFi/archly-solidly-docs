@@ -34,7 +34,7 @@ Archly has made several improvements to the Solidly codebase, all of which were 
 
 Solidly had several key issues that prevented its success in the Fantom ecosystem:
 
-## Improvements on Solidly:
+## Improvements on Solidly
 
 - Voters are only allowed to make an "active" voting decision (i.e. `Voter.vote()`, `Voter.reset()`, `Voter.poke()`) after a one week lock period from the previous "active" voting decision. 
 

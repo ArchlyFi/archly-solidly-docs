@@ -51,7 +51,7 @@ Audits performed on Solidly are available at [Solidly Audits](https://github.com
 | BaseV1Voter | [0xd9742c670eEE8001d965964E05793c42c588B657](https://www.teloscan.io/address/0xd9742c670eEE8001d965964E05793c42c588B657#contract) |
 | BaseV1Minter | [0xdB6db572DA4be59656f87Ee5711D8334e1f9b0E9](https://www.teloscan.io/address/0xdB6db572DA4be59656f87Ee5711D8334e1f9b0E9#contract) |
 
-### Testnet deployment
+### Testnet
 
 | Name | Address |
 | :--- | :--- |
