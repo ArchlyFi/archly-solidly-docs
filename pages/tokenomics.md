@@ -124,8 +124,7 @@ and decay at 2% per week (epoch).
 and the ratio of `$veArc` to `$Arc` supply, thus reducing vote power
 dilution for `$veArc`!
 
-`$veArc` supply does not affect weekly LP emissions. Said another way, `$veArc ` voting only determines
-the distribution of `$Arc` during the next week of LP emissions.
+`$veArc` supply plays a crucial role in determining the weekly LP emissions. The more `$Arc` that is locked into `$veArc` the lower the amount of the distribution of `$Arc` during the next week of LP emissions. Said another way, if 100% of `$Arc` is locked up as `$veArc`, then the weekly LP distribution of `$Arc` will be low (approaching 0 `$Arc`). If 0% of `$Arc` is locked up, then the weekly LP distribution of `$Arc` will be high. As there is no max supply of `$Arc`, this system allows the `$Arc` holders to determine how much inflation is introduced into the ecosystem, thus making engagement critical in keeping the supply of `$Arc` in balance.
 
 ## Gauge Voting
 
