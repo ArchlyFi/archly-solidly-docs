@@ -64,6 +64,12 @@
       "symbol": "MATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png"
+    },{
+      "address": "0x72397e7A188EFA8e9BbBa5cBEb4a4bC92752A59a",
+      "name": "Year365",
+      "symbol": "Y365",
+      "decimals": 18,
+      "logoURI": "https://docs.archly.fi/tokens/0x72397e7A188EFA8e9BbBa5cBEb4a4bC92752A59a.png"
     }
   ]
 }
