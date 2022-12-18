@@ -117,8 +117,8 @@ emissions will be going to the team address.
 
 The initial supply of `$Arc` was 30M.
 
-Weekly emissions started at about 15.58M `$Arc` (3.75% of the initial supply)
-and decay at 2% per week (epoch).
+Weekly emissions started at about 15.58M `$Arc` (51.93% of the initial supply)
+and a minimum decay of at least 2% per week (epoch).
 
 `$veArc` holders receive a rebase proportional to epoch LP emissions
 and the ratio of `$veArc` to `$Arc` supply, thus reducing vote power
@@ -206,4 +206,4 @@ Requirements for _whitelisting_ are critical to ensuring that the protocol canno
 be exploited by actors attempting to game emissions.
 
 To support the health of the protocol and ecosystem, the admin (a Curve-esque _Emergency DAO_)
-will have the right to disable hostile gauges.
+will have the right to disable any hostile gauges.
