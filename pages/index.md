@@ -25,6 +25,7 @@ The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), pr
 
 * Website: https://archly.fi
 * Twitter: https://twitter.com/ArchlyFinance
+* Medium: https://archlyfi.medium.com
 * Telegram: https://t.me/ArchlyFinance
 * Github: https://github.com/ArchlyFi
 * TofuNFT: https://tofunft.com/collection/archly-finance
