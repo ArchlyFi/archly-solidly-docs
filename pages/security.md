@@ -68,4 +68,4 @@ Audits performed on Solidly are available at [Solidly Audits](https://github.com
 
 ## Tokenlist
 
-https://docs.archly.fi/tokenlist.json
+https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-mainnet.json
