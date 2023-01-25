@@ -30,4 +30,4 @@ The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), pr
 * Github: https://github.com/ArchlyFi
 * TofuNFT: https://tofunft.com/collection/archly-finance
 * DefiLlama: https://defillama.com/protocol/archly-finance
-* DappRadar: https://dappradar.com/telosevm/defi/archly/
+* DappRadar: https://dappradar.com/telosevm/defi/archly
