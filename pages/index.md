@@ -19,7 +19,7 @@ Building on top of the groundwork laid out by Solidly, our team has addressed th
 
 ## Who is behind this project?
 
-The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), previously worked on Omnidex building out the contracts for Omnilend and Karma.
+The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), previously worked on Omnidex building out the contracts for Omnilend and Karma. Prior to going full time in the blockchain space, he worked for Microsoft and Amazon as a software engineer, building out large distributed services at scale.
 
 ## Resources
 
@@ -27,6 +27,7 @@ The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), pr
 * Twitter: https://twitter.com/ArchlyFinance
 * Medium: https://archlyfi.medium.com
 * Telegram: https://t.me/ArchlyFinance
+* Discord: https://dsc.gg/archly
 * Github: https://github.com/ArchlyFi
 * TofuNFT: https://tofunft.com/collection/archly-finance
 * DefiLlama: https://defillama.com/protocol/archly-finance
