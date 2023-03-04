@@ -51,9 +51,9 @@ Audits performed on Solidly are available at [Solidly Audits](https://github.com
 | BaseV1Voter | [0xd9742c670eEE8001d965964E05793c42c588B657](https://www.teloscan.io/address/0xd9742c670eEE8001d965964E05793c42c588B657#contract) |
 | BaseV1Minter | [0xdB6db572DA4be59656f87Ee5711D8334e1f9b0E9](https://www.teloscan.io/address/0xdB6db572DA4be59656f87Ee5711D8334e1f9b0E9#contract) |
 
-### Arbitrum Nove, BNB Chain, Fantom, Kava, Optimism, and Polygon
+### Arbitrum Nova, BNB Chain, Fantom, Kava, Optimism, and Polygon
 
-| Name | Address | Arbitrum Nova| BNB Chain | Fantom | Kava | Optimism | Polygom |
+| Name | Address | Arbitrum Nova| BNB Chain | Fantom | Kava | Optimism | Polygon |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Arc | 0x684802262D614D0Cd0C9571672F03Dd9e85D7824 | [contract](https://nova.arbiscan.io/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | [contract](https://bscscan.com/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | [contract](https://ftmscan.com/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | [contract](https://explorer.kava.io/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824/contracts) | [contract](https://optimistic.etherscan.io/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | [contract](https://polygonscan.com/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | 
 | veArc | 0xf070654b08595f8F358Ff90170829892F3254C67 | [contract](https://nova.arbiscan.io/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | [contract](https://bscscan.com/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | [contract](https://ftmscan.com/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | [contract](https://explorer.kava.io/address/0xf070654b08595f8F358Ff90170829892F3254C67/contracts) | [contract](https://optimistic.etherscan.io/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | [contract](https://polygonscan.com/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | 
