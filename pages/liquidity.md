@@ -35,7 +35,7 @@ The _deeper_ the liquidity of a given pool (higher value locked), the smaller th
 On Archly Finance the trading fees are kept in the originally traded tokens
 (if you trade `$USDC` and `$Arc` the fees will be kept in the same tokens).
 
-The trading fees for both liquidity pool types are 0.03%, and can be adjusted
+The trading fees for both liquidity pool types are 0.05%, and can be adjusted
 for up to 0.1%.
 
 The Volatile and Stable liquidity pools can be assigned different trading fees
