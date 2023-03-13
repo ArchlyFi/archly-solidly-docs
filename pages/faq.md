@@ -21,7 +21,7 @@ On top of that we are building the Rainbow Road which is more of of an `Anychain
 
 https://archlyfi.medium.com/rainbow-road-921b13ba77ec
 
-## Q: When do epoch start?
+## Q: When does the new epoch start?
 
 Thursdays at 00:00 UTC
 
