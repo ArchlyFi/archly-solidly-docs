@@ -91,14 +91,20 @@ success, including:
  * First 10 Telegram members (10%, 1M `$Arc`)
  * First 35 Telegram members (90%, 9M `$veArc`)
  
+ An additional 70M `$Arc` locked into `$veArc` for 4 years (10M to each new chain) was airdropped to Arbitrum Nova, Arbitrum One, BNB Chain (BSC),
+ Fantom, Kava EVM, Optimism, and Polygon users. 
+ 
 ### Team
 
 The team will receive an initial allocation that it will use to vote
 to drive emissions to key protocol pairs such as `$Arc-$USDC` and to support
 ongoing protocol development. The total team allocation is 15M (50%) in `$Arc` and `$veArc`.
 
-The team will vest 66.67% of its initial allocation in the form of a
-`$veArc` and use it to vote for `$Arc` pairs in perpetuity. This will be restricted to a 70/30 split between Arc pools (70%) and other pools (30%).
+For the Telos launch, the team vested 66.67% of its initial allocation in the form of a
+`$veArc` locked for 4 years (indefinitely) and use it to vote for pools in perpetuity.
+
+For the launch of additional chains, the team will receive 34M `$Arc` with 15M `$Arc` locked into `$veArc` for 4 years (indefinitely) and 19M `$Arc`
+to use for marketing, liquidity, and other tasks to support the team and Archly.
 
 While a fully autonomous and immutable protocol is an admirable objective, it
 comes at a cost. Archly Finance will ensure its long-term sustainability by
@@ -107,18 +113,22 @@ community, and ecosystem. As the protocol evolves, the Archly team will
 consider introducing more immutability or DAO components where appropriate.
 
 To cover ongoing expenses and all the upcoming development efforts, 3% of the
-emissions will be going to the team address.
+emissions for each chain will be going to the team address.
 
 ## Initial Bribes
 
-5M (16.67%) To encourage voting for the initial pools by the First 35 and spread more Arc to LP.
+5M (16.67%) To encourage voting for the initial pools by the First 35 and spread more Arc to LP on Telos.
 
 ## Emissions
 
-The initial supply of `$Arc` was 30M.
+The initial supply of `$Arc` was 30M and 50M `$Arc` will be added for each additional chain launched.
+A minimum of 25M `$Arc` will be locked for 4 years leaving the other 25M `$Arc` in circulation. This
+will allow for the inflation on each network to come down to an inflation of around a target of 1% with a 50% lock rate.
+The targeted lock rate is 80% across all chains.
 
-Weekly emissions started at about 15.58M `$Arc` (51.93% of the initial supply)
-and a minimum decay of at least 2% per week (epoch).
+Weekly emissions on Telos started at about 15.58M `$Arc` (51.93% of the initial supply)
+and a minimum decay of at least 2% per week (epoch). For new chains the weekly emissions 
+should start around 9M or lower `$Arc`.
 
 `$veArc` holders receive a rebase proportional to epoch LP emissions
 and the ratio of `$veArc` to `$Arc` supply, thus reducing vote power
