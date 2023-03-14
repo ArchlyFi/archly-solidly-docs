@@ -42,7 +42,7 @@ Solidly had several key issues that prevented its success in the Fantom ecosyste
 
 - Stable and Volatile pools have separate variable fee rates. This allows each type of pool to adjust the fees for the pool independent of each other. Also, the max fee for both pools is 0.1% to ensure the max fee is the lowest fee on the Telos EVM.
 
-- Team emissions: The team will receive a variable (between 0% to 0.05%) amount of weekly emission to ensure the team has ample funding to pay for resources such as subgraph nodes and website hosting.
+- Team emissions: The team will receive a variable (between 0% to 5%) amount of weekly emission to ensure the team has ample funding to pay for resources such as subgraph nodes and website hosting.
 
 - Whitelisting fees are paid for in Arc. Arc paid for whitelisting tokens is burned.
 
