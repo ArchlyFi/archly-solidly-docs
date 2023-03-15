@@ -70,6 +70,10 @@ Getting tokens for the various chains is possible at the following:
 * KuCoin: https://www.kucoin.com
 * Coinbase: https://www.coinbase.com
 
+If you need to convert your EVM address to a Kava address or vice versa, use the converter tool below:
+
+* https://docs.kava.io/docs/ethereum/address_conversion/
+
 <Callout emoji="⚠️">
   Some bridging services can take up to 20-30 minutes to complete a transfer of
   the assets.
