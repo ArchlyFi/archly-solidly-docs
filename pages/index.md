@@ -33,4 +33,6 @@ The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), pr
 * TofuNFT: https://tofunft.com/collection/archly-finance
 * DefiLlama: https://defillama.com/protocol/archly-finance
 * DappRadar: https://dappradar.com/telosevm/defi/archly
-* GeckoTerminal: https://www.geckoterminal.com/tlos/archly/pools
+* GeckoTerminal: 
+    * Telos: https://www.geckoterminal.com/tlos/archly-telos/pools
+    * Fantom: https://www.geckoterminal.com/ftm/archly-ftm/pools 
