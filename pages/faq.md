@@ -49,3 +49,7 @@ Yes. You can merge your veArc together via the [Vest](https://archly.fi/vest) pa
 ## Q: Can I transfer my veArc (sell on a NFT platform)?
 
 Yes. However the veArc will need to be reset on the [Votes](https://archly.fi/vote) page by clicking the `Reset Votes` button at the bottom for the veArc you want to transfer.
+
+## Q: Can I claim rewards from bribes/fees/rebases (distributions) after burning my veArc (through unlocking/merging/burning veArc actions)?
+
+No. Please be sure to claim any rewards for a veArc before invoking any actions that unlock/merge/burn your veArc. Once a veArc has been burned you lose any rewards that were associated to the veArc.
