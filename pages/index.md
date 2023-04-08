@@ -35,4 +35,8 @@ The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), pr
 * DappRadar: https://dappradar.com/telosevm/defi/archly
 * GeckoTerminal: 
     * Telos: https://www.geckoterminal.com/tlos/archly-telos/pools
-    * Fantom: https://www.geckoterminal.com/ftm/archly-ftm/pools 
+    * Arbitrum One: https://www.geckoterminal.com/arbitrum/archly-arbitrum/pools
+    * Arbitrum Nova: https://www.geckoterminal.com/arbitrum_nova/archly-arbitrum-nova/pools
+    * Fantom: https://www.geckoterminal.com/ftm/archly-ftm/pools
+    * Kava: https://www.geckoterminal.com/kava/archly-kava/pools
+    * Optimism: https://www.geckoterminal.com/optimism/archly-optimism/pools
