@@ -64,6 +64,7 @@ have the network token listed below on the network in order to be able to pay fo
 Getting tokens for the various chains is possible at the following: 
 
 * Multichain: https://multichain.org/
+* ChainPort: https://www.chainport.io
 * Elk Finance: https://elk.finance/
 * Rubric: https://rubic.exchange/
 * Arbitrum Bridge (Nova and One): https://bridge.arbitrum.io

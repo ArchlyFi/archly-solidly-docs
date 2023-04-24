@@ -30,9 +30,8 @@ The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), pr
 * Telegram: https://t.me/ArchlyFinance
 * Discord: https://dsc.gg/archly
 * Github: https://github.com/ArchlyFi
-* TofuNFT: https://tofunft.com/collection/archly-finance
 * DefiLlama: https://defillama.com/protocol/archly-finance
-* DappRadar: https://dappradar.com/telosevm/defi/archly
+* DappRadar: https://dappradar.com/multichain/exchanges/archly/
 * GeckoTerminal: 
     * Telos: https://www.geckoterminal.com/tlos/archly-telos/pools
     * Arbitrum One: https://www.geckoterminal.com/arbitrum/archly-arbitrum/pools
