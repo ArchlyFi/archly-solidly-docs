@@ -38,3 +38,4 @@ The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), pr
     * Fantom: https://www.geckoterminal.com/ftm/archly-ftm/pools
     * Kava: https://www.geckoterminal.com/kava/archly-kava/pools
     * Optimism: https://www.geckoterminal.com/optimism/archly-optimism/pools
+* Zealy: https://zealy.io/c/archlyfinance/questboard
