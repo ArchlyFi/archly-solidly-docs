@@ -187,7 +187,7 @@ voter (`$veArc`).
 
 ### Rebases
 
-Represent `$veArc` distributed to `$veArc` holders in order to reduce the
+Represent `$Arc` distributed to `$veArc` holders in order to reduce the
 voting power dilution.
 
 These rewards are available for claim as these accrue and are streaming
