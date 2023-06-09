@@ -55,7 +55,7 @@ Audits performed on Solidly are available at [Solidly Audits](https://github.com
 
 ### Arbitrum Nova, BNB Chain, Fantom, Kava, Optimism, and Polygon
 
-| Name | Address | Arbitrum Nova| BNB Chain | Fantom | Kava | Optimism | Polygom |
+| Name | Address | Arbitrum Nova| BNB Chain | Fantom | Kava | Optimism | Polygon |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Arc | 0x684802262D614D0Cd0C9571672F03Dd9e85D7824 | [contract](https://nova.arbiscan.io/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | [contract](https://bscscan.com/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | [contract](https://ftmscan.com/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | [contract](https://explorer.kava.io/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824/contracts) | [contract](https://optimistic.etherscan.io/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | [contract](https://polygonscan.com/address/0x684802262D614D0Cd0C9571672F03Dd9e85D7824#code) | 
 | veArc | 0xf070654b08595f8F358Ff90170829892F3254C67 | [contract](https://nova.arbiscan.io/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | [contract](https://bscscan.com/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | [contract](https://ftmscan.com/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | [contract](https://explorer.kava.io/address/0xf070654b08595f8F358Ff90170829892F3254C67/contracts) | [contract](https://optimistic.etherscan.io/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | [contract](https://polygonscan.com/address/0xf070654b08595f8F358Ff90170829892F3254C67#code) | 
