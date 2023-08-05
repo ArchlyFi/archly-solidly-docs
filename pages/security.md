@@ -27,7 +27,7 @@ Archly Finance smart contracts can be found on Telos EVM [Teloscan](https://telo
   [legal disclaimer](/legal) before using Archly Finance!
 
   For security reports, please reach out to us on
-  [Telegram](https://t.me/ArchlyFinance), or to the contacts provided on our Github page.
+  [Telegram](https://t.me/ArchlyFinance) or [Discord](https://dsc.gg/archly), or to the contacts provided on our Github page.
 </Callout>
 
 ## Audits
