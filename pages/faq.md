@@ -59,6 +59,6 @@ No. Please be sure to claim any rewards for a veArc before invoking any actions 
 Whitelisting is simple and permissionless on Archly on the [Whitelist](https://archly.fi/whitelist) page. Just follow the steps below.
 
 * Paste the token's contract address (0x...) in the textfield
-* Make sure you have enough $Arc to pay `Listing Fee`
+* Make sure you have enough $Arc to pay the `Listing Fee`
 * Click the `WHITELIST` button and complete the transaction
 * Create a pull request to add your token to the respective chain(s) in [Token List](https://github.com/ArchlyFi/token-list/) repository
