@@ -44,7 +44,7 @@ Yes. You can merge your veArc together via the [Vest](https://archly.fi/vest) pa
 * Click the `Manage` button you want to merge the other veArc into
 * Go to the merge section
 * Select the veArc from the drop down menu
-* Click the `Merge Tokens` button and complete the transaction.
+* Click the `Merge Tokens` button and complete the transaction
 
 ## Q: Can I transfer my veArc (sell on a NFT platform)?
 
@@ -53,3 +53,12 @@ Yes. However the veArc will need to be reset on the [Votes](https://archly.fi/vo
 ## Q: Can I claim rewards from bribes/fees/rebases (distributions) after burning my veArc (through unlocking/merging/burning veArc actions)?
 
 No. Please be sure to claim any rewards for a veArc before invoking any actions that unlock/merge/burn your veArc. Once a veArc has been burned you lose any rewards that were associated to the veArc.
+
+## Q: How do I whitelist my token?
+
+Whitelisting is simple and permissionless on Archly on the [Whitelist](https://archly.fi/whitelist) page. Just follow the steps below.
+
+* Paste the token's contract address (0x...) in the textfield
+* Make sure you have enough $Arc to pay `Listing Fee`
+* Click the `WHITELIST` button and complete the transaction
+* Create a pull request to add your token to the respective chain(s) in [Token List](https://github.com/ArchlyFi/token-list/) repository
