@@ -23,7 +23,7 @@ The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), pr
 ## Resources
 
 * Website: https://archly.fi
-* Analytics: https://info-telos.archly.fi
+* Intro Video: https://youtu.be/8rt11F3qG1I?si=gG1uHNiRr0MJw0U-
 * Twitter: https://twitter.com/ArchlyFinance
 * Medium: https://archlyfi.medium.com
 * Telegram: https://t.me/ArchlyFinance
