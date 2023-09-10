@@ -36,8 +36,10 @@ The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), pr
     * Arbitrum One: https://www.geckoterminal.com/arbitrum/archly-arbitrum/pools
     * Arbitrum Nova: https://www.geckoterminal.com/arbitrum_nova/archly-arbitrum-nova/pools
     * Base: https://www.geckoterminal.com/base/archly/pools
+    * BNB Chain: https://www.geckoterminal.com/bsc/archly-bsc/pools
     * Fantom: https://www.geckoterminal.com/ftm/archly-ftm/pools
     * Kava: https://www.geckoterminal.com/kava/archly-kava/pools
     * Optimism: https://www.geckoterminal.com/optimism/archly-optimism/pools
+    * Polygon: https://www.geckoterminal.com/polygon_pos/archly-polygon/pools
     * Telos: https://www.geckoterminal.com/tlos/archly-telos/pools
 * Zealy: https://zealy.io/c/archlyfinance/questboard
