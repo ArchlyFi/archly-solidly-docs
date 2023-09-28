@@ -34,7 +34,7 @@ Archly Finance smart contracts can be found on Telos EVM [Teloscan](https://telo
 
 Audits performed on Solidly are available at [Solidly Audits](https://github.com/ArchlyFi/archly-solidly-contracts/blob/master/audits/).
 
-## Contract Addresses
+## DEX Contract Addresses
 
 ### Arbitrum One
 
@@ -104,9 +104,7 @@ Audits performed on Solidly are available at [Solidly Audits](https://github.com
 
 ## Tokenlist
 
-
-
-Arbitrum Nova: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-arbitrum.json
+Arbitrum Nova: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-arbitrum-nova.json
 
 Arbitrum One: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-arbitrum-one.json
 
@@ -122,4 +120,4 @@ Optimism: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-o
 
 Polygon: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-polygon.json
 
-Telos: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-mainnet.json
+Telos: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-telos.json
