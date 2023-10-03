@@ -16,10 +16,6 @@ Archly Finance, at its core, is a liquidity solution for protocols on a wide ran
   [legal disclaimer](/legal).
 </Callout>
 
-## Who is behind this project?
-
-The developer behind Archly Finance, [Tec](https://twitter.com/tec05isalive), previously worked on Omnidex building out the contracts for Omnilend and Karma. Prior to going full time in the blockchain space, he worked for Microsoft and Amazon as a software engineer, building out large distributed services at scale.
-
 ## Resources
 
 * Website: https://archly.fi
