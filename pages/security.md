@@ -179,15 +179,15 @@ Audits performed on Solidly are available at [Solidly Audits](https://github.com
 
 | Chain | Address |
 | :--- | :--- |
-| Arbitrum Nova | [0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC](https://nova.arbiscan.io/address/0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC#code) |
-| Arbitrum One | [0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0](https://arbiscan.io/address/0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0#code) |
-| Base | [0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0](https://basescan.org/address/0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0#code) |
-| BNB Chain | [0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0](https://bscscan.com/address/0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0#code) |
-| Fantom | [0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3](https://ftmscan.com/address/0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3#code) |
-| Kava | [0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3](https://kavascan.com/address/0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3/contracts) |
-| Optimism | [0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0](https://optimistic.etherscan.io/address/0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0#code) |
-| Polygon | [0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0](https://polygonscan.com/address/0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0#code) |
-| Telos | [0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC](https://www.teloscan.io/address/0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC#contract) |
+| Arbitrum Nova | [0xA104f95135fF89DA3A4fF8Aae88a52eBCB41A1BB](https://nova.arbiscan.io/address/0xA104f95135fF89DA3A4fF8Aae88a52eBCB41A1BB#code) |
+| Arbitrum One | [0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE](https://arbiscan.io/address/0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE#code) |
+| Base | [0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1](https://basescan.org/address/0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1#code) |
+| BNB Chain | [0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE](https://bscscan.com/address/0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE#code) |
+| Fantom | [0x492535a017262d121D254B20398cb716575Cc9B8](https://ftmscan.com/address/0x492535a017262d121D254B20398cb716575Cc9B8#code) |
+| Kava | [0xE564E8F21E93088a53fa2164A95DB6fE45309f99](https://kavascan.com/address/0xE564E8F21E93088a53fa2164A95DB6fE45309f99/contracts) |
+| Optimism | [0xE0bB58736b5C373Ecd104068e4Ab57399A3b16D7](https://optimistic.etherscan.io/address/0xE0bB58736b5C373Ecd104068e4Ab57399A3b16D7#code) |
+| Polygon | [0x724f9A247A6755d5Fd93e0cf1e563F9441523618](https://polygonscan.com/address/0x724f9A247A6755d5Fd93e0cf1e563F9441523618#code) |
+| Telos | [0x52093032E619C1493206CF52c47B41E5b7964bce](https://www.teloscan.io/address/0x52093032E619C1493206CF52c47B41E5b7964bce#contract) |
 
 ### LayerZero Sender
 
