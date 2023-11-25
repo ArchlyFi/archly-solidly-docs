@@ -34,7 +34,7 @@ Archly Finance smart contracts can be found on Telos EVM [Teloscan](https://telo
 
 Audits performed on Solidly are available at [Solidly Audits](https://github.com/ArchlyFi/archly-solidly-contracts/blob/master/audits/).
 
-## DEX Contract Addresses
+## DEX v1 Contract Addresses
 
 ### Arbitrum One
 
@@ -101,6 +101,22 @@ Audits performed on Solidly are available at [Solidly Audits](https://github.com
 | BaseVBribeV2Factory (2.1) | [0x9cC1fc700695c21730E3a84748A50705F3f0655D](https://www.teloscan.io/address/0x9cC1fc700695c21730E3a84748A50705F3f0655D#contract) |
 | BaseV1Voter | [0xd9742c670eEE8001d965964E05793c42c588B657](https://www.teloscan.io/address/0xd9742c670eEE8001d965964E05793c42c588B657#contract) |
 | BaseV1Minter | [0xdB6db572DA4be59656f87Ee5711D8334e1f9b0E9](https://www.teloscan.io/address/0xdB6db572DA4be59656f87Ee5711D8334e1f9b0E9#contract) |
+
+
+## DEX v2 Contract Addresses (All Chains)
+
+| Name | Address |
+| :--- | :--- |
+| Arc | 0xe8876189A80B2079D8C0a7867e46c50361D972c1 |
+| VeArc | 0x6ACa098fa93DAD7A872F6dcb989F8b4A3aFC3342 |
+| VeArcDistributor | 0x0361a173dC338c32E57079b2c51cEf36f8A982f1 |
+| PairFactory | 0x12508dd9108Abab2c5fD8fC6E4984E46a3CF7824 |
+| Router | 0xE8E2b714C57937E0b29c6ABEAF00B52388cAb598 |
+| GaugeFactory | 0xb33F66f27d8D8282AC1f55F98cd83503e90128e9 |
+| BribeFactory | 0xc8c5172879f0b7E88cc03ca20835dbE9e283386e |
+| Voter | 0x0B1481fE6Fd74a6449064163604d712DFf9bc6DD |
+| Minter | 0x14EAfc4ceB334d4f913204647708aBAD1ceF0854 |
+| ArcConverter | 0x45D01F53D31190BB6a1e23de776ad894Cf9F48d8 |
 
 
 ## Rainbow Road Contract Addresses
