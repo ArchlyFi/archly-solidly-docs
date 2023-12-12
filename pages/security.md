@@ -233,19 +233,33 @@ Audits performed on Solidly are available at [Solidly Audits](https://github.com
 | Polygon | [0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3](https://polygonscan.com/address/0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3#code) |
 | Telos | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://www.teloscan.io/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#contract) |
 
-### ERC20 Transfer Handler
+### ERC20 Transfer Handler Contract Addresses
 
 | Chain | Address |
 | :--- | :--- |
-| Arbitrum Nova | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://nova.arbiscan.io/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
-| Arbitrum One | [0x8B52B48b75Adc61D916c380bFc7b54243d020818](https://arbiscan.io/address/0x8B52B48b75Adc61D916c380bFc7b54243d020818#code) |
-| Base | [0x8B52B48b75Adc61D916c380bFc7b54243d020818](https://basescan.org/address/0x8B52B48b75Adc61D916c380bFc7b54243d020818#code) |
-| BNB Chain | [0x8B52B48b75Adc61D916c380bFc7b54243d020818](https://bscscan.com/address/0x8B52B48b75Adc61D916c380bFc7b54243d020818#code) |
-| Fantom | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://ftmscan.com/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
-| Kava | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://kavascan.com/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E/contracts) |
-| Optimism | [0x8B52B48b75Adc61D916c380bFc7b54243d020818](https://optimistic.etherscan.io/address/0x8B52B48b75Adc61D916c380bFc7b54243d020818#code) |
-| Polygon | [0x8B52B48b75Adc61D916c380bFc7b54243d020818](https://polygonscan.com/address/0x8B52B48b75Adc61D916c380bFc7b54243d020818#code) |
-| Telos | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://www.teloscan.io/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#contract) |
+| Arbitrum Nova | [0x16b5856DBC2F66d6Dc5B361B0073f51ed5FfB52b](https://nova.arbiscan.io/address/0x16b5856DBC2F66d6Dc5B361B0073f51ed5FfB52b#code) |
+| Arbitrum One | [0x600aF6290ca77d39b9D111e30FE5f9A6AF3aE2FC](https://arbiscan.io/address/0x600aF6290ca77d39b9D111e30FE5f9A6AF3aE2FC#code) |
+| Base | [0x724f9A247A6755d5Fd93e0cf1e563F9441523618](https://basescan.org/address/0x724f9A247A6755d5Fd93e0cf1e563F9441523618#code) |
+| BNB Chain | [0xc20b717E273adB4099Cd455376e24e33AcB30C07](https://bscscan.com/address/0xc20b717E273adB4099Cd455376e24e33AcB30C07#code) |
+| Fantom | [0xb7A6501716C7930270F5634953862053B4227100](https://ftmscan.com/address/0xb7A6501716C7930270F5634953862053B4227100#code) |
+| Kava | [0xEec547122f5EA2Edb34D46114c9c6A7c896f5041](https://kavascan.com/address/0xEec547122f5EA2Edb34D46114c9c6A7c896f5041/contracts) |
+| Optimism | [0xdD07Fd54d7a3668018fb731A091A1F7927897424](https://optimistic.etherscan.io/address/0xdD07Fd54d7a3668018fb731A091A1F7927897424#code) |
+| Polygon | [0x10dA2d78420cE6FEAFA090663e9d0915Caa041c4](https://polygonscan.com/address/0x10dA2d78420cE6FEAFA090663e9d0915Caa041c4#code) |
+| Telos | [0x9194b4F9A8DB883A870fa5Eba998aA4a6DD97e3B](https://www.teloscan.io/address/0x9194b4F9A8DB883A870fa5Eba998aA4a6DD97e3B#contract) |
+
+### veArc Transfer Handler Contract Addresses
+
+| Chain | Address |
+| :--- | :--- |
+| Arbitrum Nova | [0x23f014285814A3c33Ef78F3FA1b1DF96fA63CE23](https://nova.arbiscan.io/address/0x23f014285814A3c33Ef78F3FA1b1DF96fA63CE23#code) |
+| Arbitrum One | [0x63442B9ADc73D87fE31D3fE1d5aC45abD5772911](https://arbiscan.io/address/0x63442B9ADc73D87fE31D3fE1d5aC45abD5772911#code) |
+| Base | [0x1d3b404a18a83493C6b900E9e7B2cD2761099997](https://basescan.org/address/0x1d3b404a18a83493C6b900E9e7B2cD2761099997#code) |
+| BNB Chain | [0x0Ce5A89Fb6E9d41298C0b231bCb90Fb9491a22D7](https://bscscan.com/address/0x0Ce5A89Fb6E9d41298C0b231bCb90Fb9491a22D7#code) |
+| Fantom | [0x30278A2DAECa1088152DA4a216c545c65B1490f8](https://ftmscan.com/address/0x30278A2DAECa1088152DA4a216c545c65B1490f8#code) |
+| Kava | [0x01Ce32DF6C7D016C9bf6dce5e07Cb95FA9DF4895](https://kavascan.com/address/0x01Ce32DF6C7D016C9bf6dce5e07Cb95FA9DF4895/contracts) |
+| Optimism | [0x708514080FBC9F7cd597571fD5CebFfD2b03dcf5](https://optimistic.etherscan.io/address/0x708514080FBC9F7cd597571fD5CebFfD2b03dcf5#code) |
+| Polygon | [0x120b672B7977494Bb64B7b35B158Ff75e5E1f4d4](https://polygonscan.com/address/0x120b672B7977494Bb64B7b35B158Ff75e5E1f4d4#code) |
+| Telos | [0xB7d01d3978d2155A9B5c50035dbd89114BE6C203](https://www.teloscan.io/address/0xB7d01d3978d2155A9B5c50035dbd89114BE6C203#contract) |
 
 ### DEX Weekly Update Handler
 
