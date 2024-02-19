@@ -9,7 +9,18 @@ import Callout from 'nextra-theme-docs/callout'
 
 # About
 
-Archly Finance, at its core, is a liquidity solution for protocols on a wide range of EVM chains to properly incentivize liquidity for their own use cases. Building on top of the groundwork laid out by Solidly, our team has addressed that first iteration's core issues to realize its full potential.
+Archly works to empower any user on any chain to engage in seamless cross-chain experiences. Our mission is to provide the tools and infrastructure necessary to operate across any chain to power any scenario in a reliable, robust, secure, and consistent environment. The Archly ecosystem is centered around our DEX and Rainbow Road. 
+
+![Archly Ecosystem Flywheel](/archly-ecosystem-flywheel.jpg)
+
+### DEX
+
+DEX is a 100% permissionless liquidity solution for protocols on a wide range of EVM chains to properly incentivize liquidity for their own use cases. Building on top of the groundwork laid out by Solidly, Archly has improved the design to scale across any chain making it the first truly cross-chain ve(3,3) DEX. 
+
+### Rainbow Road
+
+The Rainbow Road is an abstraction layer of infrastructure that allows seamless cross-chain experiences to be built on top of blockchains. This is done by providing a layer that integrates with the underlying chains and other infrastructure protocols, removing the need for every app (Web2 and Web3) to repeat the same integration work to go cross-chain.
+
 
 <Callout emoji="⚠️">
   Before using Archly Finance, you are required to read and agree to our

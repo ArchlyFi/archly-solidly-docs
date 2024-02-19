@@ -7,6 +7,8 @@ import Callout from 'nextra-theme-docs/callout'
 
 &nbsp;
 
+# Frequently Asked Questions
+
 ## Q: What makes Archly different?
 
 Potential for future growth.

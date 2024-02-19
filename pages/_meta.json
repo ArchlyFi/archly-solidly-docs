@@ -1,7 +1,7 @@
 {
   "index": "Archly Finance",
-  "protocol": "Protocol Overview",
-  "launch": "Launch Details",
+  "dex": "DEX Overview",
+  "road": "Rainbow Road Overview",
   "tokenomics": "Tokenomics and Emissions",
   "liquidity": "Liquidity Pools",
   "security": "Security",

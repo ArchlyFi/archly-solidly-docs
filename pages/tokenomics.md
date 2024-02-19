@@ -13,11 +13,11 @@ import { Chart } from "react-google-charts";
 
 Archly Finance uses two tokens to manage its utility and governance:
 
- * `$Arc` &mdash; ERC-20 utility token of the protocol
+ * `$Arc` &mdash; ERC-20 utility token of the Archly ecosystem
  * `$veArc` &mdash; ERC-721 token in the form of an NFT
    (non-fungible token)
 
-`$Arc` is used for rewarding liquidity providers through emissions.
+`$Arc` is used for rewarding liquidity providers through emissions and to pay for whitelisting tokens (on DEX and Rainbow Road), sending messages across the Rainbow Road, and more.
 
 `$veArc` is used for earning bribes and fees. Any `$Arc` holder can vote-escrow their tokens and
 receive a `$veArc` (also known as veNFT) in exchange. Additional tokens can be
@@ -27,6 +27,8 @@ The lock period (also known as vote-escrowed period, hence the _ve_ prefix) can 
 to 4 years, following the linear relationship shown below:
  * 100 `$Arc` locked for 4 years will become 100 `$veArc`
  * 100 `$Arc` locked for 1 year will become 25 `$veArc`
+ * 100 `$Arc` locked for 1 month will become 2.05 `$veArc`
+ * 100 `$Arc` locked for 1 week will become 0.48 `$veArc`
 
 The longer the vesting time, the higher the voting power (voting weight) and
 rewards the `$veArc` holder receives.
@@ -47,88 +49,20 @@ Below, we will walk through the components of the mechanism in order to
 explain how it helps the incentives flow to the most valuable of the ecosystem
 liquidity pools.
 
-## Initial Distribution
-
-<Callout emoji="🪂">
-  The airdrop claim period is now complete. Thank you to everyone who
-  participated!
-</Callout>
-
-At launch we distributed `$Arc` and `$veArc` to
-users we believe are likeliest to contribute to our
-mission to become the liquidity base layer of the Telos EVM ecosystem.
-
-
-### Distribution
-
-<Bleed>
-  <Chart
-    chartType="PieChart"
-    data={[
-      [ "Receivers", "Amount" ],
-      [ "Community", 10 ],
-      [ "Archly Team", 15 ],
-      [ "Initial Bribes", 5 ],
-    ]}
-    options={{
-      title: "$Arc Distribution (M)",
-      backgroundColor: '#111111',
-      colors: ['#79F8DB', '#027FFF', '#FDBF40', '#FF1301', '#F1EBE2', '#FBBF42', '#EDE7DB'],
-      legend: {textStyle: {color: 'white'}},
-      pieHole: 0.4,
-      titleTextStyle: { color: 'white' },
-    }}
-    width={"100%"}
-    height={"600px"}
-  />
-</Bleed>
-
-### Community
-
-10M (33.33%) `$Arc` tokens were distributed to the people who have played the biggest role in
-incubating Archly and those likeliest to contribute to its long-term
-success, including:
- * First 10 Telegram members (10%, 1M `$Arc`)
- * First 35 Telegram members (90%, 9M `$veArc`)
- 
- An additional 70M `$Arc` locked into `$veArc` for 4 years (10M to each new chain) was airdropped to Arbitrum Nova, Arbitrum One, BNB Chain (BSC),
- Fantom, Kava EVM, Optimism, and Polygon users. 
- 
-### Team
-
-The team will receive an initial allocation that it will use to vote
-to drive emissions to key protocol pairs such as `$Arc-$USDC` and to support
-ongoing protocol development. The total team allocation is 15M (50%) in `$Arc` and `$veArc`.
-
-For the Telos launch, the team vested 66.67% of its initial allocation in the form of a
-`$veArc` locked for 4 years (indefinitely) and use it to vote for pools in perpetuity.
-
-For the launch of additional chains, the team will receive 34M `$Arc` with 15M `$Arc` locked into `$veArc` for 4 years (indefinitely) and 19M `$Arc`
-to use for marketing, liquidity, and other tasks to support the team and Archly.
-
-While a fully autonomous and immutable protocol is an admirable objective, it
-comes at a cost. Archly Finance will ensure its long-term sustainability by
-employing a dedicated team focused on supporting the product, documentation,
-community, and ecosystem. As the protocol evolves, the Archly team will
-consider introducing more immutability or DAO components where appropriate.
-
-To cover ongoing expenses and all the upcoming development efforts, 3% of the
-emissions for each chain will be going to the team address.
-
-## Initial Bribes
-
-5M (16.67%) To encourage voting for the initial pools by the First 35 and spread more Arc to LP on Telos.
-
 ## Emissions
 
-The initial supply of `$Arc` was 30M and 50M `$Arc` will be added for each additional chain launched.
-A minimum of 25M `$Arc` will be locked for 4 years leaving the other 25M `$Arc` in circulation. This
-will allow for the inflation on each network to come down to an inflation of around a target of 1% with a 50% lock rate.
-The targeted lock rate is 80% across all chains.
+- Controlled at the chain level.
 
-Weekly emissions on Telos started at about 15.58M `$Arc` (51.93% of the initial supply)
-and a minimum decay of at least 2% per week (epoch). For new chains the weekly emissions 
-should start around 9M or lower `$Arc`.
+- Target a lock rate of 80% across all chains.
+
+- Existing Arc and veArc must be moved via the Rainbow Road from other chains to the new chain.
+
+- A maximum of 25M Arc will be minted to provide liquidity for new Arc-NATIVE pools on the new chain (20M Arc max) and cover prior team obligations (5M Arc max for this category).
+
+- Can only start on chains that have obtained 5% of the global total supply of Arc on chains with emissions enabled.
+
+- Will be reduced on all chains where emissions are enabled to maintain a consistent emission schedule.
+
 
 `$veArc` holders receive a rebase proportional to epoch LP emissions
 and the ratio of `$veArc` to `$Arc` supply, thus reducing vote power
@@ -171,18 +105,16 @@ Represent liquidity pool trading fees distributed to voters in pool tokens (
 e.g., if the pool is `vAMM-Arc/USDC` the distributed tokens are `$Arc` and
 `$USDC`).
 
-The tokens are streaming proportionally to the voting power cast by a voter and
-the accrued amount of trading fees.
-
-These rewards are available for claim as they accrue. They do not need to be claimed each epoch.
+The fee rewards are released and claimable in the next epoch (Thursdays at 00:00 UTC) proportionally to the voting power cast by a voter and
+the accrued amount of weekly trading fees. They do not need to be claimed each epoch.
 
 ### Bribes
 
 In addition to the fees, liquidity pools allow external rewards from anyone
 (known as _bribes_). Bribes can be added to _whitelisted_ pools and are distributed 
-_only_ to voters on that pool, proportionally to their share of pool votes.
+_only_ to voters on that pool, proportionally to their share of pool votes. They do not need to be claimed each epoch.
 
-These rewards are available for claim immediately after the creation of a bribe for a pool, and are proportional to the voting power cast by a
+These rewards are available for claim in the next epoch (Thursdays at 00:00 UTC) after the creation of a bribe for a pool, and are proportional to the voting power cast by a
 voter (`$veArc`).
 
 ### Rebases
@@ -190,8 +122,7 @@ voter (`$veArc`).
 Represent `$Arc` distributed to `$veArc` holders in order to reduce the
 voting power dilution.
 
-These rewards are available for claim as these accrue and are streaming
-proportionally to all `$veArc` holders.
+These rewards are available for claim each week in the next epoch (Thursdays at 00:00 UTC) proportionally to all `$veArc` holders.
 
 ## Rewards claim
 
@@ -201,12 +132,13 @@ An example of bribes, voting, and rewards claim timeline:
  * A new epoch starts Thursday (00:00 UTC)
  * Bribes are deposited at any point in the epoch
  * Voters vote for their preferred pools
+ * Voters claim bribes (incentives) and fees for their pool in the next epoch (after Thursday at 00:00 UTC)
+ * Liquidity providers can claim their Arc emission any time during the epoch
 
 ## Whitelisting
 
-While Archly supports permissionless liquidity pool and gauge creation, these can
-only include _whitelisted_ tokens. The protocol will launch with an extensive list of
-pre-whitelisted tokens.
+While Archly DEX and Rainbow Road supports permissionless liquidity pool, gauge creation, and token transfers these can
+only include _whitelisted_ tokens.
 
 Partners can pay the whitelisting fee in order to whitelist their projects token on Archly. The Arc paid for whitelisting is burned. 
 
