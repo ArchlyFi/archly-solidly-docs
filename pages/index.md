@@ -43,7 +43,7 @@ The Rainbow Road is an abstraction layer of infrastructure that allows seamless 
     * Arbitrum One: https://www.geckoterminal.com/arbitrum/archly-arbitrum/pools
     * Arbitrum Nova: https://www.geckoterminal.com/arbitrum_nova/archly-arbitrum-nova/pools
     * Avalanche: https://www.geckoterminal.com/avax/archly-avalanche/pools
-    * Base: https://www.geckoterminal.com/base/archly/pools
+    * Base: https://www.geckoterminal.com/base/archly-base/pools
     * BNB Chain: https://www.geckoterminal.com/bsc/archly-bsc/pools
     * Cronos: https://www.geckoterminal.com/cro/archly-cronos/pools
     * Fantom: https://www.geckoterminal.com/ftm/archly-ftm/pools
