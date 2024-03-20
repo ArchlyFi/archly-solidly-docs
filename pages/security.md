@@ -138,8 +138,11 @@ __Rainbow Road__
 | Avalanche | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://snowtrace.io/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
 | Base | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://basescan.org/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | BNB Chain | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://bscscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
+| Blast | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://blastscan.io/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
 | Cronos | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://cronoscan.com/address/0x9412316dc6c882ffc4fa1a01413b0c701b147b9e#code) |
 | Fantom | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://ftmscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
+| Filecoin | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://ftmscan.com/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
+| Fraxtal | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://fraxscan.com/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
 | Kava | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://kavascan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9/contracts) |
 | Mantle | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://explorer.mantle.xyz/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E/contracts) |
 | Metis | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://explorer.metis.io/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E/contract/1088/code) |
@@ -157,9 +160,12 @@ __Fee Collector Factory__
 | Arbitrum One | [0xf693C2018DF28123533B1f7840ffb9a3102585C0](https://arbiscan.io/address/0xf693C2018DF28123533B1f7840ffb9a3102585C0#code) |
 | Avalanche | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://snowtrace.io/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
 | Base | [0xf693C2018DF28123533B1f7840ffb9a3102585C0](https://basescan.org/address/0xf693C2018DF28123533B1f7840ffb9a3102585C0#code) |
+| Blast | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://blastscan.io/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
 | BNB Chain | [0xf693C2018DF28123533B1f7840ffb9a3102585C0](https://bscscan.com/address/0xf693C2018DF28123533B1f7840ffb9a3102585C0#code) |
 | Cronos | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://cronoscan.com/address/0xb17906d2c9f0457492077d2952f0ca333fe70b6f#code) |
 | Fantom | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://ftmscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
+| Filecoin | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://fraxscan.com/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
+| Fraxtal | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://fraxscan.com/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
 | Kava | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://kavascan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17/contracts) |
 | Mantle | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://explorer.mantle.xyz/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F/contracts) |
 | Metis | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://explorer.metis.io/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F/contract/1088/code) |
@@ -178,8 +184,11 @@ __ERC20 Transfer Handler__
 | Avalanche | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://snowtrace.io/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | Base | [0x724f9A247A6755d5Fd93e0cf1e563F9441523618](https://basescan.org/address/0x724f9A247A6755d5Fd93e0cf1e563F9441523618#code) |
 | BNB Chain | [0xc20b717E273adB4099Cd455376e24e33AcB30C07](https://bscscan.com/address/0xc20b717E273adB4099Cd455376e24e33AcB30C07#code) |
+| Blast | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://blastscan.io/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | Cronos | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://cronoscan.com/address/0x8e4dd1749dfd63538ca3cef29b10f9e25605a4cc#code) |
 | Fantom | [0xb7A6501716C7930270F5634953862053B4227100](https://ftmscan.com/address/0xb7A6501716C7930270F5634953862053B4227100#code) |
+| Filecoin | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://fraxscan.com/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
+| Fraxtal | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://fraxscan.com/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | Kava | [0xEec547122f5EA2Edb34D46114c9c6A7c896f5041](https://kavascan.com/address/0xEec547122f5EA2Edb34D46114c9c6A7c896f5041/contracts) |
 | Mantle | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://explorer.mantle.xyz/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc/contracts) |
 | Metis | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://explorer.metis.io/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc/contract/1088/code) |
@@ -197,9 +206,12 @@ __veArc Transfer Handler__
 | Arbitrum One | [0x63442B9ADc73D87fE31D3fE1d5aC45abD5772911](https://arbiscan.io/address/0x63442B9ADc73D87fE31D3fE1d5aC45abD5772911#code) |
 | Avalanche | [0xEfBC28a489265Ec91757b243Af6203Baec0B4B00](https://snowtrace.io/address/0xEfBC28a489265Ec91757b243Af6203Baec0B4B00#code) |
 | Base | [0x1d3b404a18a83493C6b900E9e7B2cD2761099997](https://basescan.org/address/0x1d3b404a18a83493C6b900E9e7B2cD2761099997#code) |
+| Blast | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://blastscan.io/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347#code) |
 | BNB Chain | [0x0Ce5A89Fb6E9d41298C0b231bCb90Fb9491a22D7](https://bscscan.com/address/0x0Ce5A89Fb6E9d41298C0b231bCb90Fb9491a22D7#code) |
 | Cronos | [0xEfBC28a489265Ec91757b243Af6203Baec0B4B00](https://cronoscan.com/address/0xefbc28a489265ec91757b243af6203baec0b4b00#code) |
 | Fantom | [0x30278A2DAECa1088152DA4a216c545c65B1490f8](https://ftmscan.com/address/0x30278A2DAECa1088152DA4a216c545c65B1490f8#code) |
+| Filecoin | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://fraxscan.com/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347#code) |
+| Fraxtal | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://fraxscan.com/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347#code) |
 | Kava | [0x01Ce32DF6C7D016C9bf6dce5e07Cb95FA9DF4895](https://kavascan.com/address/0x01Ce32DF6C7D016C9bf6dce5e07Cb95FA9DF4895/contracts) |
 | Mantle | [0xEfBC28a489265Ec91757b243Af6203Baec0B4B00](https://explorer.mantle.xyz/address/0xEfBC28a489265Ec91757b243Af6203Baec0B4B00) |
 | Metis | [0xEfBC28a489265Ec91757b243Af6203Baec0B4B00](https://explorer.metis.io/address/0xEfBC28a489265Ec91757b243Af6203Baec0B4B00/contract/1088/code) |
@@ -217,9 +229,12 @@ __DEX Weekly Update Handler__
 | Arbitrum One | [0x339dec659aD3ccCB45F298365749AA96a66CD80D](https://arbiscan.io/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code) |
 | Avalanche | [0x4f91C473655B87D844130785081F55EF422f4ACA](https://snowtrace.io/address/0x4f91C473655B87D844130785081F55EF422f4ACA#code) |
 | Base | [0x339dec659aD3ccCB45F298365749AA96a66CD80D](https://basescan.org/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code) |
+| Blast | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://blastscan.io/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | BNB Chain | [0x339dec659aD3ccCB45F298365749AA96a66CD80D](https://bscscan.com/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code) |
 | Cronos | [0x4f91C473655B87D844130785081F55EF422f4ACA](https://cronoscan.com/address/0x4f91c473655b87d844130785081f55ef422f4aca#code) |
 | Fantom | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://ftmscan.com/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
+| Filecoin | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://fraxscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
+| Fraxtal | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://fraxscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Kava | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://kavascan.com/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7/contracts) |
 | Mantle | [0x4f91C473655B87D844130785081F55EF422f4ACA](https://explorer.mantle.xyz/address/0x4f91C473655B87D844130785081F55EF422f4ACA/contracts) |
 | Metis | [0x4f91C473655B87D844130785081F55EF422f4ACA](https://explorer.metis.io/address/0x4f91C473655B87D844130785081F55EF422f4ACA/contract/1088/code) |
@@ -237,9 +252,12 @@ __Chainlink Data Feed Factory__
 | Arbitrum One | [0x0d4DebC10cd99034fa777D84FE158Eb04c2ed4c3](https://arbiscan.io/address/0x0d4DebC10cd99034fa777D84FE158Eb04c2ed4c3#code) |
 | Avalanche | TBD |
 | Base | TBD |
+| Blast | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://blastscan.io/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | BNB Chain | TBD |
 | Cronos | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://cronoscan.com/address/0x9d1a576ef61e734cd0272a8652fad5a18fb1337f#code) |
 | Fantom | TBD |
+| Filecoin | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://fraxscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
+| Fraxtal | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://fraxscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Kava | [0x7465aE4fd3Ec52a56A6fd78fB4f4502191BfD60b](https://kavascan.com/address/0x7465aE4fd3Ec52a56A6fd78fB4f4502191BfD60b/contracts) |
 | Mantle | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://explorer.mantle.xyz/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F/contracts) |
 | Metis | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://explorer.metis.io/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F/contract/1088/code) |
@@ -257,13 +275,16 @@ __Chainlink Data Feed Handler__
 | Arbitrum One | [0x0Ce5A89Fb6E9d41298C0b231bCb90Fb9491a22D7](https://arbiscan.io/address/0x0Ce5A89Fb6E9d41298C0b231bCb90Fb9491a22D7#code) |
 | Avalanche | TBD |
 | Base | TBD |
+| Blast | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://blastscan.io/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
 | BNB Chain | TBD |
-| Cronos | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://cronoscan.com/address/0xda25a4e7407b95883d4b038b394bf607ccee4b17#code) |
+| Cronos | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://cronoscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Fantom | TBD |
+| Filecoin | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://fraxscan.com/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
+| Fraxtal | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://fraxscan.com/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
 | Kava | [0x2eBdCD5F200B62f2AD8A241fBbCe4df5158A2295](https://kavascan.com/address/0x2eBdCD5F200B62f2AD8A241fBbCe4df5158A2295/contracts) |
 | Mantle | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://explorer.mantle.xyz/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17/contracts) |
 | Metis | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://explorer.metis.io/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17/contract/1088/code) |
-| Neon | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://neonscan.org/address/0xda25a4e7407b95883d4b038b394bf607ccee4b17#contract) |
+| Neon | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://neonscan.org/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#contract) |
 | Optimism | TBD|
 | Polygon | TBD |
 | Telos | [0x8a382156Bf6484F6C0ff813acdF809470795CDD0](https://www.teloscan.io/address/0x8a382156Bf6484F6C0ff813acdF809470795CDD0#contract) |
@@ -277,9 +298,12 @@ __Chainlink Receiver v1.2.0__
 | Arbitrum One | [0xCa0CC42687D5f75Cebd026EE0B268b355d1103C7](https://arbiscan.io/address/0xCa0CC42687D5f75Cebd026EE0B268b355d1103C7#code) |
 | Avalanche | [0x71e396bFfbD0f443A72512582dCE138cC9351F84](https://snowtrace.io/address/0x71e396bFfbD0f443A72512582dCE138cC9351F84#code) |
 | Base | [0x29C8d266438292c8B0BCCA659DF2Db122b7A9E51](https://basescan.org/address/0x29C8d266438292c8B0BCCA659DF2Db122b7A9E51#code) |
+| Blast | TBD |
 | BNB Chain | [0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1](https://bscscan.com/address/0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1#code) |
 | Cronos | TBD |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | TBD |
 | Mantle | TBD |
 | Metis | TBD |
@@ -297,9 +321,12 @@ __Chainlink Receiver v1.0.0__
 | Arbitrum One | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://arbiscan.io/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F#code) |
 | Avalanche | TBD |
 | Base | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://basescan.org/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F#code) |
+| Blast | TBD |
 | BNB Chain | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://bscscan.com/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F#code) |
 | Cronos | TBD |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | TBD |
 | Mantle | TBD |
 | Metis | TBD |
@@ -317,9 +344,12 @@ __Chainlink Sender v1.2.0__
 | Arbitrum One | [0xb868378251B13DacBF54DA40074E987Dd464108F](https://arbiscan.io/address/0xb868378251B13DacBF54DA40074E987Dd464108F#code) |
 | Avalanche | [0xABd243a5d69fd7e647d7e9440EB3869de0428512](https://snowtrace.io/address/0xABd243a5d69fd7e647d7e9440EB3869de0428512#code) |
 | Base | [0x68c696A0caE310Ff3A4Ce1B4f56AB3bb1566be8D](https://basescan.org/address/0x68c696A0caE310Ff3A4Ce1B4f56AB3bb1566be8D#code) |
+| Blast | TBD |
 | BNB Chain | [0xAE7cFfe5fF17a509d4f724c002519e8d1f2A1A5a](https://bscscan.com/address/0xAE7cFfe5fF17a509d4f724c002519e8d1f2A1A5a#code) |
 | Cronos | TBD |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | TBD |
 | Mantle | TBD |
 | Metis | TBD |
@@ -337,9 +367,12 @@ __Chainlink Sender v1.0.0__
 | Arbitrum One | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://arbiscan.io/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Avalanche | TBD |
 | Base | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://basescan.org/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
+| Blast | TBD |
 | BNB Chain | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://bscscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Cronos | TBD |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | TBD |
 | Mantle | TBD |
 | Metis | TBD |
@@ -357,9 +390,12 @@ __Axelar Receiver__
 | Arbitrum One | [0x273C9c5766c0c2441d778814c5d68D847c022f00](https://arbiscan.io/address/0x273C9c5766c0c2441d778814c5d68D847c022f00#code) |
 | Avalanche | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://snowtrace.io/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
 | Base | [0x273C9c5766c0c2441d778814c5d68D847c022f00](https://basescan.org/address/0x273C9c5766c0c2441d778814c5d68D847c022f00#code) |
+| Blast | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://blastscan.io/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
 | BNB Chain | [0x273C9c5766c0c2441d778814c5d68D847c022f00](https://bscscan.com/address/0x273C9c5766c0c2441d778814c5d68D847c022f00#code) |
 | Cronos | TBD |
 | Fantom | [0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC](https://ftmscan.com/address/0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC#code) |
+| Filecoin | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://fraxscan.com/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
+| Fraxtal | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://fraxscan.com/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
 | Kava | [0xFD7A105225433c05fE0E5851df7AF5C00b245dF8](https://kavascan.com/address/0xFD7A105225433c05fE0E5851df7AF5C00b245dF8/contracts) |
 | Mantle | [0x877fe019d5320bc5A1ab6d72f05D13ba8A651350](https://explorer.mantle.xyz/address/0x877fe019d5320bc5A1ab6d72f05D13ba8A651350/contracts) |
 | Metis | TBD |
@@ -377,9 +413,12 @@ __Axelar Sender__
 | Arbitrum One | [0xb162BF709505765605B447F9817acbF428cB86F6](https://arbiscan.io/address/0xb162BF709505765605B447F9817acbF428cB86F6#code) |
 | Avalanche | [0x0808CC60D8E6c130c2133e4b3B499ba0D0B1aB88](https://snowtrace.io/address/0x0808CC60D8E6c130c2133e4b3B499ba0D0B1aB88#code) |
 | Base | [0xb162BF709505765605B447F9817acbF428cB86F6](https://basescan.org/address/0xb162BF709505765605B447F9817acbF428cB86F6#code) |
+| Blast | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://blastscan.io/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
 | BNB Chain | [0xb162BF709505765605B447F9817acbF428cB86F6](https://bscscan.com/address/0xb162BF709505765605B447F9817acbF428cB86F6#code) |
 | Cronos | TBD |
 | Fantom | [0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9](https://ftmscan.com/address/0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9#code) |
+| Filecoin | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://fraxscan.com/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
+| Fraxtal | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://fraxscan.com/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
 | Kava | [0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC](https://kavascan.com/address/0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC/contracts) |
 | Mantle | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://explorer.mantle.xyz/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A/contracts) |
 | Metis | TBD |
@@ -397,9 +436,12 @@ __LayerZero Receiver__
 | Arbitrum One | [0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE](https://arbiscan.io/address/0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE#code) |
 | Avalanche | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://snowtrace.io/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
 | Base | [0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1](https://basescan.org/address/0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1#code) |
+| Blast | [0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee](https://blastscan.io/address/0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee#code) |
 | BNB Chain | [0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE](https://bscscan.com/address/0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE#code) |
 | Cronos | TBD |
 | Fantom | [0x492535a017262d121D254B20398cb716575Cc9B8](https://ftmscan.com/address/0x492535a017262d121D254B20398cb716575Cc9B8#code) |
+| Filecoin | [0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee](https://fraxscan.com/address/0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee#code) |
+| Fraxtal | [0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee](https://fraxscan.com/address/0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee#code) |
 | Kava | [0xE564E8F21E93088a53fa2164A95DB6fE45309f99](https://kavascan.com/address/0xE564E8F21E93088a53fa2164A95DB6fE45309f99/contracts) |
 | Mantle | [0xc23350F2bf5b0e368B93ddC40E815de10a90C0c3](https://explorer.mantle.xyz/address/0xc23350F2bf5b0e368B93ddC40E815de10a90C0c3/contracts) |
 | Metis | [0x877fe019d5320bc5A1ab6d72f05D13ba8A651350](https://explorer.metis.io/address/0x877fe019d5320bc5A1ab6d72f05D13ba8A651350/contract/1088/code) |
@@ -417,9 +459,12 @@ __LayerZero Sender__
 | Arbitrum One | [0x2d45D18bc844CFb242B77cC5943bd318dcAd5407](https://arbiscan.io/address/0x2d45D18bc844CFb242B77cC5943bd318dcAd5407#code) |
 | Avalanche | [0xFD7A105225433c05fE0E5851df7AF5C00b245dF8](https://snowtrace.io/address/0xFD7A105225433c05fE0E5851df7AF5C00b245dF8#code) |
 | Base | [0x2d45D18bc844CFb242B77cC5943bd318dcAd5407](https://basescan.org/address/0x2d45D18bc844CFb242B77cC5943bd318dcAd5407#code) |
+| Blast | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://blastscan.io/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
 | BNB Chain | [0x2d45D18bc844CFb242B77cC5943bd318dcAd5407](https://bscscan.com/address/0x2d45D18bc844CFb242B77cC5943bd318dcAd5407#code) |
 | Cronos | TBD |
 | Fantom | [0x639126426445b709e7b67f210604115c277fdFaA](https://ftmscan.com/address/0x639126426445b709e7b67f210604115c277fdFaA#code) |
+| Filecoin | TBD |
+| Fraxtal | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://fraxscan.com/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
 | Kava | [0x639126426445b709e7b67f210604115c277fdFaA](https://kavascan.com/address/0x639126426445b709e7b67f210604115c277fdFaA/contracts) |
 | Mantle | [0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee](https://explorer.mantle.xyz/address/0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee/contracts) |
 | Metis | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://explorer.metis.io/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A/contract/1088/code) |
@@ -437,13 +482,16 @@ __CryptoLink Receiver__
 | Arbitrum One | TBD |
 | Avalanche | TBD |
 | Base | TBD |
+| Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | [0x877fe019d5320bc5A1ab6d72f05D13ba8A651350](https://cronoscan.com/address/0x877fe019d5320bc5A1ab6d72f05D13ba8A651350#code) |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | [0xfe7C6aDbb0450b0B3e908724346eFcaDd5E7a0D3](https://kavascan.com/address/0xfe7C6aDbb0450b0B3e908724346eFcaDd5E7a0D3/contracts) |
 | Mantle | TBD |
 | Metis | TBD |
-| Neon | TBD |
+| Neon | [0x17A5B068722B575134065b58DCA70ECA895EfB81](https://neonscan.org/address/0x17A5B068722B575134065b58DCA70ECA895EfB81#code) |
 | Optimism | TBD |
 | Polygon | TBD |
 | Telos | TBD |
@@ -457,9 +505,12 @@ __CryptoLink Sender__
 | Arbitrum One | TBD |
 | Avalanche | TBD |
 | Base | TBD |
+| Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://cronoscan.com/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | [0x2592248F13d142fF11AB585319149F92C859dDA8](https://kavascan.com/address/0x2592248F13d142fF11AB585319149F92C859dDA8/contracts) |
 | Mantle | TBD |
 | Metis | TBD |
@@ -477,9 +528,12 @@ __deBridge Receiver__
 | Arbitrum One | TBD |
 | Avalanche | TBD |
 | Base | TBD |
+| Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | TBD |
 | Mantle | TBD |
 | Metis | TBD |
@@ -497,9 +551,12 @@ __deBridge Sender__
 | Arbitrum One | TBD |
 | Avalanche | TBD |
 | Base | TBD |
+| Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | TBD |
 | Mantle | TBD |
 | Metis | TBD |
@@ -517,9 +574,12 @@ __DEX Weekly Updater__
 | Arbitrum One | TBD |
 | Avalanche | TBD |
 | Base | TBD |
+| Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | TBD |
 | Mantle | TBD |
 | Metis | TBD |
@@ -537,9 +597,12 @@ __Chainlink Data Feed Publisher__
 | Arbitrum One | [0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1](https://arbiscan.io/address/0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1#code) |
 | Avalanche | TBD |
 | Base | TBD |
+| Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
 | Fantom | TBD |
+| Filecoin | TBD |
+| Fraxtal | TBD |
 | Kava | TBD |
 | Mantle | TBD |
 | Metis | TBD |
@@ -555,19 +618,37 @@ Arbitrum Nova: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenl
 
 Arbitrum One: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-arbitrum-one.json
 
+Avalanche: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-avalanche.json
+
 Base: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-base.json
+
+Blast: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-blast.json
 
 BNB Chain: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-bsc.json
 
+Cronos: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-cronos.json
+
 Fantom: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-fantom.json
 
+Filecoin: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-filecoin.json
+
+Fraxtal: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-fraxtal.json
+
 Kava: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-kava.json
+
+Mantle: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-mantle.json
+
+Metis: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-metis.json
+
+Neon: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-neon.json
 
 Optimism: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-optimism.json
 
 Polygon: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-polygon.json
 
 Telos: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-telos.json
+
+zkSync Era: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-zksync-era.json
 
 ## Chain IDs
 
@@ -577,9 +658,12 @@ Telos: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-telo
 | Arbitrum One | 42161 |
 | Avalanche | 43114 |
 | Base | 8453 |
+| Blast | 81457 |
 | BNB Chain | 56 |
 | Cronos | 25 |
 | Fantom | 250 |
+| Filecoin | 314 |
+| Fraxtal | 252 |
 | Kava | 2222 |
 | Mantle | 5000 |
 | Metis | 1088 |
@@ -597,9 +681,12 @@ Telos: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-telo
 | [Arbitrum One](https://arbiscan.io/) |
 | [Avalanche](https://snowtrace.io/) |
 | [Base](https://basescan.org/) |
+| [Blast](https://blastscan.io/) |
 | [BNB Chain](https://bscscan.com/) |
 | [Cronos](https://cronoscan.com/) |
 | [Fantom](https://ftmscan.com/) |
+| [Filecoin](https://filfox.info/) |
+| [Fraxtal](https://fraxscan.com/) |
 | [Kava](https://kavascan.com/) |
 | [Mantle](https://explorer.mantle.xyz/) |
 | [Metis](https://explorer.metis.io/) |
