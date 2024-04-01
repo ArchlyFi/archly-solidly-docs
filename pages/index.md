@@ -53,6 +53,7 @@ The Rainbow Road is an abstraction layer of infrastructure that allows seamless 
     * Kava: https://www.geckoterminal.com/kava/archly-kava/pools
     * Mantle: https://www.geckoterminal.com/mantle/archly-mantle/pools
     * Metis: https://www.geckoterminal.com/metis/archly-metis/pools
+    * Mode: https://www.geckoterminal.com/mode/archly-mode/pools
     * Neon: https://www.geckoterminal.com/neon-evm/archly-neon/pools
     * Optimism: https://www.geckoterminal.com/optimism/archly-optimism/pools
     * Polygon: https://www.geckoterminal.com/polygon_pos/archly-polygon/pools

@@ -137,8 +137,8 @@ __Rainbow Road__
 | Arbitrum One | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://arbiscan.io/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Avalanche | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://snowtrace.io/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
 | Base | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://basescan.org/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
-| BNB Chain | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://bscscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Blast | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://blastscan.io/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
+| BNB Chain | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://bscscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Cronos | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://cronoscan.com/address/0x9412316dc6c882ffc4fa1a01413b0c701b147b9e#code) |
 | Fantom | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://ftmscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Filecoin | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://fvm.starboard.ventures/explorer/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
@@ -152,6 +152,7 @@ __Rainbow Road__
 | Polygon | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://polygonscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Telos | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://www.teloscan.io/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#contract) |
 | zkSync Era | [0xEb484dddfAD4F89c0F72267c7d13752451831038](https://explorer.zksync.io/address/0xEb484dddfAD4F89c0F72267c7d13752451831038#contract) |
+| Zora | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://explorer.zora.energy/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E?tab=contract) |
 
 __Fee Collector Factory__
 
@@ -176,6 +177,7 @@ __Fee Collector Factory__
 | Polygon | [0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3](https://polygonscan.com/address/0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3#code) |
 | Telos | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://www.teloscan.io/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#contract) |
 | zkSync Era | [0xBfDDBD9F71d2FB88923e0a7Fb06a5aa937D9F5fF](https://explorer.zksync.io/address/0xBfDDBD9F71d2FB88923e0a7Fb06a5aa937D9F5fF#contract) |
+| Zora | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://explorer.zora.energy/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F?tab=contract) |
 
 __ERC20 Transfer Handler__
 
@@ -185,8 +187,8 @@ __ERC20 Transfer Handler__
 | Arbitrum One | [0x600aF6290ca77d39b9D111e30FE5f9A6AF3aE2FC](https://arbiscan.io/address/0x600aF6290ca77d39b9D111e30FE5f9A6AF3aE2FC#code) |
 | Avalanche | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://snowtrace.io/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | Base | [0x724f9A247A6755d5Fd93e0cf1e563F9441523618](https://basescan.org/address/0x724f9A247A6755d5Fd93e0cf1e563F9441523618#code) |
-| BNB Chain | [0xc20b717E273adB4099Cd455376e24e33AcB30C07](https://bscscan.com/address/0xc20b717E273adB4099Cd455376e24e33AcB30C07#code) |
 | Blast | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://blastscan.io/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
+| BNB Chain | [0xc20b717E273adB4099Cd455376e24e33AcB30C07](https://bscscan.com/address/0xc20b717E273adB4099Cd455376e24e33AcB30C07#code) |
 | Cronos | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://cronoscan.com/address/0x8e4dd1749dfd63538ca3cef29b10f9e25605a4cc#code) |
 | Fantom | [0xb7A6501716C7930270F5634953862053B4227100](https://ftmscan.com/address/0xb7A6501716C7930270F5634953862053B4227100#code) |
 | Filecoin | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://fvm.starboard.ventures/explorer/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
@@ -200,6 +202,7 @@ __ERC20 Transfer Handler__
 | Polygon | [0x10dA2d78420cE6FEAFA090663e9d0915Caa041c4](https://polygonscan.com/address/0x10dA2d78420cE6FEAFA090663e9d0915Caa041c4#code) |
 | Telos | [0x9194b4F9A8DB883A870fa5Eba998aA4a6DD97e3B](https://www.teloscan.io/address/0x9194b4F9A8DB883A870fa5Eba998aA4a6DD97e3B#contract) |
 | zkSync Era | [0x71071F3b894045329D392d2201Fc841e1AB211b8](https://explorer.zksync.io/address/0x71071F3b894045329D392d2201Fc841e1AB211b8#contract) |
+| Zora | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://explorer.zora.energy/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc?tab=contract) |
 
 __veArc Transfer Handler__
 
@@ -224,6 +227,7 @@ __veArc Transfer Handler__
 | Polygon | [0x120b672B7977494Bb64B7b35B158Ff75e5E1f4d4](https://polygonscan.com/address/0x120b672B7977494Bb64B7b35B158Ff75e5E1f4d4#code) |
 | Telos | [0xB7d01d3978d2155A9B5c50035dbd89114BE6C203](https://www.teloscan.io/address/0xB7d01d3978d2155A9B5c50035dbd89114BE6C203#contract) |
 | zkSync Era | [0xF80adb93165E1dEC3dA4B8F3a9b709b734D26f03](https://explorer.zksync.io/address/0xF80adb93165E1dEC3dA4B8F3a9b709b734D26f03#contract) |
+| Zora | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://explorer.zora.energy/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347?tab=contract) |
 
 __DEX Weekly Update Handler__
 
@@ -248,6 +252,7 @@ __DEX Weekly Update Handler__
 | Polygon | [0x339dec659aD3ccCB45F298365749AA96a66CD80D](https://polygonscan.com/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code) |
 | Telos | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://www.teloscan.io/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#contract) |
 | zkSync Era | [0x0E83A9237E6475eB00eED787edfC711232946156](https://explorer.zksync.io/address/0x0E83A9237E6475eB00eED787edfC711232946156#contract) |
+| Zora | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://explorer.zora.energy/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9?tab=contract) |
 
 __Chainlink Data Feed Factory__
 
@@ -272,6 +277,7 @@ __Chainlink Data Feed Factory__
 | Polygon | TBD |
 | Telos | [0x4aCb1Bc3813432311948876102B7542560ee1f25](https://www.teloscan.io/address/0x4aCb1Bc3813432311948876102B7542560ee1f25#contract) |
 | zkSync Era | [0x3E21E1CefcDFd8bB668fa2A14485026c20428f41](https://explorer.zksync.io/address/0x3E21E1CefcDFd8bB668fa2A14485026c20428f41#contract) |
+| Zora | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://explorer.zora.energy/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17?tab=contract) |
 
 __Chainlink Data Feed Handler__
 
@@ -296,6 +302,7 @@ __Chainlink Data Feed Handler__
 | Polygon | TBD |
 | Telos | [0x8a382156Bf6484F6C0ff813acdF809470795CDD0](https://www.teloscan.io/address/0x8a382156Bf6484F6C0ff813acdF809470795CDD0#contract) |
 | zkSync Era | [0xbc8D98C4D43a7c14189a4b3A5e7f21e7CB5abFB3](https://explorer.zksync.io/address/0xbc8D98C4D43a7c14189a4b3A5e7f21e7CB5abFB3#contract) |
+| Zora | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://explorer.zora.energy/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E?tab=contract) |
 
 __Chainlink Receiver v1.2.0__
 
@@ -320,6 +327,7 @@ __Chainlink Receiver v1.2.0__
 | Polygon | [0x63442B9ADc73D87fE31D3fE1d5aC45abD5772911](https://polygonscan.com/address/0x63442B9ADc73D87fE31D3fE1d5aC45abD5772911#code) |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __Chainlink Receiver v1.0.0__
 
@@ -344,6 +352,7 @@ __Chainlink Receiver v1.0.0__
 | Polygon | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://polygonscan.com/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F#code) |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __Chainlink Sender v1.2.0__
 
@@ -368,6 +377,7 @@ __Chainlink Sender v1.2.0__
 | Polygon | [0x54c279e073A600545B4acbEBf8e8c7B18eC04281](https://polygonscan.com/address/0x54c279e073A600545B4acbEBf8e8c7B18eC04281#code) |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __Chainlink Sender v1.0.0__
 
@@ -392,6 +402,7 @@ __Chainlink Sender v1.0.0__
 | Polygon | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://polygonscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __Axelar Receiver__
 
@@ -416,6 +427,7 @@ __Axelar Receiver__
 | Polygon | [0x273C9c5766c0c2441d778814c5d68D847c022f00](https://polygonscan.com/address/0x273C9c5766c0c2441d778814c5d68D847c022f00#code) |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __Axelar Sender__
 
@@ -440,6 +452,7 @@ __Axelar Sender__
 | Polygon | [0xb162BF709505765605B447F9817acbF428cB86F6](https://polygonscan.com/address/0xb162BF709505765605B447F9817acbF428cB86F6#code) |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __LayerZero Receiver__
 
@@ -464,6 +477,7 @@ __LayerZero Receiver__
 | Polygon | [0x724f9A247A6755d5Fd93e0cf1e563F9441523618](https://polygonscan.com/address/0x724f9A247A6755d5Fd93e0cf1e563F9441523618#code) |
 | Telos | [0x52093032E619C1493206CF52c47B41E5b7964bce](https://www.teloscan.io/address/0x52093032E619C1493206CF52c47B41E5b7964bce#contract) |
 | zkSync Era | [0x12BEC3a4FD7e8e258e4e42e92FDCe9BE6F28D940](https://explorer.zksync.io/address/0x12BEC3a4FD7e8e258e4e42e92FDCe9BE6F28D940#contract) |
+| Zora | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://explorer.zora.energy/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A?tab=contract) |
 
 __LayerZero Sender__
 
@@ -488,6 +502,7 @@ __LayerZero Sender__
 | Polygon | [0x2d45D18bc844CFb242B77cC5943bd318dcAd5407](https://polygonscan.com/address/0x2d45D18bc844CFb242B77cC5943bd318dcAd5407#code) |
 | Telos | [0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9](https://www.teloscan.io/address/0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9#contract) |
 | zkSync Era | [0x63954018EdC88b17950e70Ade6bB606131265f02](https://explorer.zksync.io/address/0x63954018EdC88b17950e70Ade6bB606131265f02#contract) |
+| Zora | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://explorer.zora.energy/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC) |
 
 __CryptoLink Receiver__
 
@@ -512,6 +527,7 @@ __CryptoLink Receiver__
 | Polygon | TBD |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __CryptoLink Sender__
 
@@ -536,6 +552,7 @@ __CryptoLink Sender__
 | Polygon | TBD |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __deBridge Receiver__
 
@@ -560,6 +577,7 @@ __deBridge Receiver__
 | Polygon | [0x285d802117856ab0005771D572FD8c66912EA437](https://polygonscan.com/address/0x285d802117856ab0005771D572FD8c66912EA437#code) |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __deBridge Sender__
 
@@ -584,6 +602,7 @@ __deBridge Sender__
 | Polygon | [0x8c2c06321151F2236eaFDB0816edb9Cb68dFCA57](https://polygonscan.com/address/0x8c2c06321151F2236eaFDB0816edb9Cb68dFCA57#code) |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __DEX Weekly Updater__
 
@@ -608,6 +627,7 @@ __DEX Weekly Updater__
 | Polygon | [0xA28cEbC0f64Bb3D1974a3DF9441E2dF8414E376F](https://polygonscan.com/address/0xA28cEbC0f64Bb3D1974a3DF9441E2dF8414E376F#code) |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 __Chainlink Data Feed Publisher__
 
@@ -632,6 +652,7 @@ __Chainlink Data Feed Publisher__
 | Polygon | TBD |
 | Telos | TBD |
 | zkSync Era | TBD |
+| Zora | TBD |
 
 ## Tokenlist
 
@@ -673,6 +694,8 @@ Telos: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-telo
 
 zkSync Era: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-zksync-era.json
 
+Zora: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-zora.json
+
 ## Chain IDs
 
 | Chain | ID |
@@ -696,6 +719,7 @@ zkSync Era: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist
 | Polygon | 137 |
 | Telos | 40 |
 | zkSync Era | 324 |
+| Zora | 7777777 |
 
 ## Explorers
 
@@ -720,6 +744,7 @@ zkSync Era: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist
 | [Polygon](https://polygonscan.com/) |
 | [Telos](https://www.teloscan.io/) |
 | [zkSync Era](https://explorer.zksync.io/) |
+| [Zora](https://explorer.zora.energy/) |
 
 
 ## Audits
