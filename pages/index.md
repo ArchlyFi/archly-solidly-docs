@@ -58,4 +58,5 @@ The Rainbow Road is an abstraction layer of infrastructure that allows seamless 
     * Optimism: https://www.geckoterminal.com/optimism/archly-optimism/pools
     * Polygon: https://www.geckoterminal.com/polygon_pos/archly-polygon/pools
     * Telos: https://www.geckoterminal.com/tlos/archly-telos/pools
+    * Zora: https://www.geckoterminal.com/zora-network/archly-zora/pools
 * Zealy: https://zealy.io/c/archlyfinance/questboard
