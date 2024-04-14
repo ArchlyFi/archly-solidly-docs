@@ -30,7 +30,7 @@ incidents related to Solidly smart contracts were reported.
 
 ## DEX v2 Contract Addresses
 
-__All Chains except zkSync Era__
+__All Chains except Ethereum and zkSync Era__
 
 | Name | Address |
 | :--- | :--- |
@@ -43,6 +43,20 @@ __All Chains except zkSync Era__
 | BribeFactory | 0xc8c5172879f0b7E88cc03ca20835dbE9e283386e |
 | Voter | 0x0B1481fE6Fd74a6449064163604d712DFf9bc6DD |
 | Minter | 0x14EAfc4ceB334d4f913204647708aBAD1ceF0854 |
+
+__Ethereum__
+
+| Name | Address |
+| :--- | :--- |
+| Arc | 0x9482c407d32204462D8CBbC0755e96C39B79878E |
+| VeArc | 0x0361a173dC338c32E57079b2c51cEf36f8A982f1 |
+| VeArcDistributor | 0xb33F66f27d8D8282AC1f55F98cd83503e90128e9 |
+| PairFactory | 0xE8E2b714C57937E0b29c6ABEAF00B52388cAb598 |
+| Router | 0xe8876189A80B2079D8C0a7867e46c50361D972c1 |
+| GaugeFactory | 0xc8c5172879f0b7E88cc03ca20835dbE9e283386e |
+| BribeFactory | 0x0B1481fE6Fd74a6449064163604d712DFf9bc6DD |
+| Voter | 0x14EAfc4ceB334d4f913204647708aBAD1ceF0854 |
+| Minter | 0x33cd6F03495591aa594b553F3AD9B12886925bD4 |
 
 __zkSync Era__
 
@@ -140,6 +154,7 @@ __Rainbow Road__
 | Blast | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://blastscan.io/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
 | BNB Chain | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://bscscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Cronos | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://cronoscan.com/address/0x9412316dc6c882ffc4fa1a01413b0c701b147b9e#code) |
+| Ethereum | [0x26417f1c915cD4178B23b44C4DAD7d3067Faa520](https://etherscan.io/address/0x26417f1c915cD4178B23b44C4DAD7d3067Faa520#code) |
 | Fantom | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://ftmscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Filecoin | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://fvm.starboard.ventures/explorer/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
 | Fraxtal | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://fraxscan.com/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
@@ -151,7 +166,7 @@ __Rainbow Road__
 | Optimism | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://optimistic.etherscan.io/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Polygon | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://polygonscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Telos | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://www.teloscan.io/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#contract) |
-| Zeta | TBD |
+| Zeta | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://zetachain.blockscout.com/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E?tab=contract) |
 | zkSync Era | [0xEb484dddfAD4F89c0F72267c7d13752451831038](https://explorer.zksync.io/address/0xEb484dddfAD4F89c0F72267c7d13752451831038#contract) |
 | Zora | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://explorer.zora.energy/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E?tab=contract) |
 
@@ -166,6 +181,7 @@ __Fee Collector Factory__
 | Blast | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://blastscan.io/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
 | BNB Chain | [0xf693C2018DF28123533B1f7840ffb9a3102585C0](https://bscscan.com/address/0xf693C2018DF28123533B1f7840ffb9a3102585C0#code) |
 | Cronos | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://cronoscan.com/address/0xb17906d2c9f0457492077d2952f0ca333fe70b6f#code) |
+| Ethereum | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://etherscan.io/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | Fantom | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://ftmscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Filecoin | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://fvm.starboard.ventures/explorer/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
 | Fraxtal | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://fraxscan.com/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
@@ -177,7 +193,7 @@ __Fee Collector Factory__
 | Optimism | [0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3](https://optimistic.etherscan.io/address/0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3#code) |
 | Polygon | [0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3](https://polygonscan.com/address/0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3#code) |
 | Telos | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://www.teloscan.io/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#contract) |
-| Zeta | TBD |
+| Zeta | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://zetachain.blockscout.com/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F?tab=contract) |
 | zkSync Era | [0xBfDDBD9F71d2FB88923e0a7Fb06a5aa937D9F5fF](https://explorer.zksync.io/address/0xBfDDBD9F71d2FB88923e0a7Fb06a5aa937D9F5fF#contract) |
 | Zora | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://explorer.zora.energy/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F?tab=contract) |
 
@@ -192,6 +208,7 @@ __ERC20 Transfer Handler__
 | Blast | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://blastscan.io/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | BNB Chain | [0xc20b717E273adB4099Cd455376e24e33AcB30C07](https://bscscan.com/address/0xc20b717E273adB4099Cd455376e24e33AcB30C07#code) |
 | Cronos | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://cronoscan.com/address/0x8e4dd1749dfd63538ca3cef29b10f9e25605a4cc#code) |
+| Ethereum | [0xF0220EB64F49BF01c9414fc670923bfAbaF6DC29](https://etherscan.io/address/0xF0220EB64F49BF01c9414fc670923bfAbaF6DC29#code) |
 | Fantom | [0xb7A6501716C7930270F5634953862053B4227100](https://ftmscan.com/address/0xb7A6501716C7930270F5634953862053B4227100#code) |
 | Filecoin | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://fvm.starboard.ventures/explorer/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | Fraxtal | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://fraxscan.com/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
@@ -203,7 +220,7 @@ __ERC20 Transfer Handler__
 | Optimism | [0xdD07Fd54d7a3668018fb731A091A1F7927897424](https://optimistic.etherscan.io/address/0xdD07Fd54d7a3668018fb731A091A1F7927897424#code) |
 | Polygon | [0x10dA2d78420cE6FEAFA090663e9d0915Caa041c4](https://polygonscan.com/address/0x10dA2d78420cE6FEAFA090663e9d0915Caa041c4#code) |
 | Telos | [0x9194b4F9A8DB883A870fa5Eba998aA4a6DD97e3B](https://www.teloscan.io/address/0x9194b4F9A8DB883A870fa5Eba998aA4a6DD97e3B#contract) |
-| Zeta | TBD |
+| Zeta | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://zetachain.blockscout.com/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc?tab=contract) |
 | zkSync Era | [0x71071F3b894045329D392d2201Fc841e1AB211b8](https://explorer.zksync.io/address/0x71071F3b894045329D392d2201Fc841e1AB211b8#contract) |
 | Zora | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://explorer.zora.energy/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc?tab=contract) |
 
@@ -218,6 +235,7 @@ __veArc Transfer Handler__
 | Blast | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://blastscan.io/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347#code) |
 | BNB Chain | [0x0Ce5A89Fb6E9d41298C0b231bCb90Fb9491a22D7](https://bscscan.com/address/0x0Ce5A89Fb6E9d41298C0b231bCb90Fb9491a22D7#code) |
 | Cronos | [0xEfBC28a489265Ec91757b243Af6203Baec0B4B00](https://cronoscan.com/address/0xefbc28a489265ec91757b243af6203baec0b4b00#code) |
+| Ethereum | [0x4f91C473655B87D844130785081F55EF422f4ACA](https://etherscan.io/address/0x4f91C473655B87D844130785081F55EF422f4ACA#code) |
 | Fantom | [0x30278A2DAECa1088152DA4a216c545c65B1490f8](https://ftmscan.com/address/0x30278A2DAECa1088152DA4a216c545c65B1490f8#code) |
 | Filecoin | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://fvm.starboard.ventures/explorer/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347#code) |
 | Fraxtal | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://fraxscan.com/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347#code) |
@@ -229,7 +247,7 @@ __veArc Transfer Handler__
 | Optimism | [0x708514080FBC9F7cd597571fD5CebFfD2b03dcf5](https://optimistic.etherscan.io/address/0x708514080FBC9F7cd597571fD5CebFfD2b03dcf5#code) |
 | Polygon | [0x120b672B7977494Bb64B7b35B158Ff75e5E1f4d4](https://polygonscan.com/address/0x120b672B7977494Bb64B7b35B158Ff75e5E1f4d4#code) |
 | Telos | [0xB7d01d3978d2155A9B5c50035dbd89114BE6C203](https://www.teloscan.io/address/0xB7d01d3978d2155A9B5c50035dbd89114BE6C203#contract) |
-| Zeta | TBD |
+| Zeta | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://zetachain.blockscout.com/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347?tab=contract) |
 | zkSync Era | [0xF80adb93165E1dEC3dA4B8F3a9b709b734D26f03](https://explorer.zksync.io/address/0xF80adb93165E1dEC3dA4B8F3a9b709b734D26f03#contract) |
 | Zora | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://explorer.zora.energy/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347?tab=contract) |
 
@@ -244,6 +262,7 @@ __DEX Weekly Update Handler__
 | Blast | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://blastscan.io/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | BNB Chain | [0x339dec659aD3ccCB45F298365749AA96a66CD80D](https://bscscan.com/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code) |
 | Cronos | [0x4f91C473655B87D844130785081F55EF422f4ACA](https://cronoscan.com/address/0x4f91c473655b87d844130785081f55ef422f4aca#code) |
+| Ethereum | TBD |
 | Fantom | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://ftmscan.com/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
 | Filecoin | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://fvm.starboard.ventures/explorer/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Fraxtal | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://fraxscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
@@ -255,7 +274,7 @@ __DEX Weekly Update Handler__
 | Optimism | [0x339dec659aD3ccCB45F298365749AA96a66CD80D](https://optimistic.etherscan.io/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code) |
 | Polygon | [0x339dec659aD3ccCB45F298365749AA96a66CD80D](https://polygonscan.com/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code) |
 | Telos | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://www.teloscan.io/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#contract) |
-| Zeta | TBD |
+| Zeta | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://zetachain.blockscout.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9?tab=contract) |
 | zkSync Era | [0x0E83A9237E6475eB00eED787edfC711232946156](https://explorer.zksync.io/address/0x0E83A9237E6475eB00eED787edfC711232946156#contract) |
 | Zora | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://explorer.zora.energy/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9?tab=contract) |
 
@@ -270,6 +289,7 @@ __Chainlink Token Transfer Handler__
 | Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -295,6 +315,7 @@ __Chainlink Data Feed Factory__
 | Blast | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://blastscan.io/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | BNB Chain | TBD |
 | Cronos | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://cronoscan.com/address/0x9d1a576ef61e734cd0272a8652fad5a18fb1337f#code) |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://fvm.starboard.ventures/explorer/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Fraxtal | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://fraxscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
@@ -306,7 +327,7 @@ __Chainlink Data Feed Factory__
 | Optimism | TBD |
 | Polygon | TBD |
 | Telos | [0x4aCb1Bc3813432311948876102B7542560ee1f25](https://www.teloscan.io/address/0x4aCb1Bc3813432311948876102B7542560ee1f25#contract) |
-| Zeta | TBD |
+| Zeta | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://zetachain.blockscout.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17?tab=contract) |
 | zkSync Era | [0x3E21E1CefcDFd8bB668fa2A14485026c20428f41](https://explorer.zksync.io/address/0x3E21E1CefcDFd8bB668fa2A14485026c20428f41#contract) |
 | Zora | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://explorer.zora.energy/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17?tab=contract) |
 
@@ -321,6 +342,7 @@ __Chainlink Data Feed Handler__
 | Blast | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://blastscan.io/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
 | BNB Chain | TBD |
 | Cronos | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://cronoscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://fvm.starboard.ventures/explorer/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
 | Fraxtal | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://fraxscan.com/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
@@ -332,7 +354,7 @@ __Chainlink Data Feed Handler__
 | Optimism | TBD|
 | Polygon | TBD |
 | Telos | [0x8a382156Bf6484F6C0ff813acdF809470795CDD0](https://www.teloscan.io/address/0x8a382156Bf6484F6C0ff813acdF809470795CDD0#contract) |
-| Zeta | TBD |
+| Zeta | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://zetachain.blockscout.com/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E?tab=contract) |
 | zkSync Era | [0xbc8D98C4D43a7c14189a4b3A5e7f21e7CB5abFB3](https://explorer.zksync.io/address/0xbc8D98C4D43a7c14189a4b3A5e7f21e7CB5abFB3#contract) |
 | Zora | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://explorer.zora.energy/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E?tab=contract) |
 
@@ -347,6 +369,7 @@ __Chainlink Receiver v1.2.0__
 | Blast | TBD |
 | BNB Chain | [0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1](https://bscscan.com/address/0x4d4178E7b48cB5B6D0b7C6E860824838ffCb22b1#code) |
 | Cronos | TBD |
+| Ethereum | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://etherscan.io/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F#code) |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -373,6 +396,7 @@ __Chainlink Receiver v1.0.0__
 | Blast | TBD |
 | BNB Chain | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://bscscan.com/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F#code) |
 | Cronos | TBD |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -399,6 +423,7 @@ __Chainlink Sender v1.2.0__
 | Blast | TBD |
 | BNB Chain | [0xAE7cFfe5fF17a509d4f724c002519e8d1f2A1A5a](https://bscscan.com/address/0xAE7cFfe5fF17a509d4f724c002519e8d1f2A1A5a#code) |
 | Cronos | TBD |
+| Ethereum | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://etherscan.io/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -425,6 +450,7 @@ __Chainlink Sender v1.0.0__
 | Blast | TBD |
 | BNB Chain | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://bscscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Cronos | TBD |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -451,6 +477,7 @@ __Chainlink Token Receiver v1.2.0__
 | Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -477,6 +504,7 @@ __Chainlink Token Sender v1.2.0__
 | Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -503,6 +531,7 @@ __Axelar Receiver__
 | Blast | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://blastscan.io/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
 | BNB Chain | [0x273C9c5766c0c2441d778814c5d68D847c022f00](https://bscscan.com/address/0x273C9c5766c0c2441d778814c5d68D847c022f00#code) |
 | Cronos | TBD |
+| Ethereum | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://etherscan.io/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
 | Fantom | [0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC](https://ftmscan.com/address/0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC#code) |
 | Filecoin | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://fvm.starboard.ventures/explorer/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
 | Fraxtal | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://fraxscan.com/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
@@ -529,6 +558,7 @@ __Axelar Sender__
 | Blast | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://blastscan.io/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
 | BNB Chain | [0xb162BF709505765605B447F9817acbF428cB86F6](https://bscscan.com/address/0xb162BF709505765605B447F9817acbF428cB86F6#code) |
 | Cronos | TBD |
+| Ethereum | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://etherscan.io/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
 | Fantom | [0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9](https://ftmscan.com/address/0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9#code) |
 | Filecoin | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://fvm.starboard.ventures/explorer/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
 | Fraxtal | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://fraxscan.com/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
@@ -555,6 +585,7 @@ __LayerZero Receiver__
 | Blast | [0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee](https://blastscan.io/address/0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee#code) |
 | BNB Chain | [0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE](https://bscscan.com/address/0xfD4Cc2d4ABf0FBd87882004cAB576268e6e32bAE#code) |
 | Cronos | TBD |
+| Ethereum | [0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee](https://etherscan.io/address/0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee#code) |
 | Fantom | [0x492535a017262d121D254B20398cb716575Cc9B8](https://ftmscan.com/address/0x492535a017262d121D254B20398cb716575Cc9B8#code) |
 | Filecoin | TBD |
 | Fraxtal | [0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee](https://fraxscan.com/address/0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee#code) |
@@ -581,6 +612,7 @@ __LayerZero Sender__
 | Blast | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://blastscan.io/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
 | BNB Chain | [0x2d45D18bc844CFb242B77cC5943bd318dcAd5407](https://bscscan.com/address/0x2d45D18bc844CFb242B77cC5943bd318dcAd5407#code) |
 | Cronos | TBD |
+| Ethereum | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://etherscan.io/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
 | Fantom | [0x639126426445b709e7b67f210604115c277fdFaA](https://ftmscan.com/address/0x639126426445b709e7b67f210604115c277fdFaA#code) |
 | Filecoin | TBD |
 | Fraxtal | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://fraxscan.com/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
@@ -607,6 +639,7 @@ __CryptoLink Receiver__
 | Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | [0x877fe019d5320bc5A1ab6d72f05D13ba8A651350](https://cronoscan.com/address/0x877fe019d5320bc5A1ab6d72f05D13ba8A651350#code) |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -633,6 +666,7 @@ __CryptoLink Sender__
 | Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://cronoscan.com/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -659,6 +693,7 @@ __deBridge Receiver__
 | Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -685,6 +720,7 @@ __deBridge Sender__
 | Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -711,6 +747,7 @@ __DEX Weekly Updater__
 | Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
+| Ethereum | TBD |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
@@ -737,6 +774,7 @@ __Chainlink Data Feed Publisher__
 | Blast | TBD |
 | BNB Chain | TBD |
 | Cronos | TBD |
+| Ethereum | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://etherscan.io/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
