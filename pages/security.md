@@ -845,6 +845,7 @@ Zora: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-zora.
 | Blast | 81457 |
 | BNB Chain | 56 |
 | Cronos | 25 |
+| Ethereum | 1 |
 | Fantom | 250 |
 | Filecoin | 314 |
 | Fraxtal | 252 |
@@ -871,6 +872,7 @@ Zora: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-zora.
 | [Blast](https://blastscan.io/) |
 | [BNB Chain](https://bscscan.com/) |
 | [Cronos](https://cronoscan.com/) |
+| [Ethereum](https://etherscan.io/) |
 | [Fantom](https://ftmscan.com/) |
 | [Filecoin](https://fvm.starboard.ventures/explorer/) |
 | [Fraxtal](https://fraxscan.com/) |
