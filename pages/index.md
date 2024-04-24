@@ -34,7 +34,7 @@ The Rainbow Road is an abstraction layer of infrastructure that allows seamless 
 * Twitter: https://twitter.com/ArchlyFinance
 * Medium: https://archlyfi.medium.com
 * Telegram: https://t.me/ArchlyFinance
-* Discord: https://dsc.gg/archly
+* Discord: https://discord.gg/nZQZ2Br9yc
 * Github: https://github.com/ArchlyFi
 * Dune: https://dune.com/archly
 * DefiLlama: https://defillama.com/protocol/archly-finance
