@@ -47,6 +47,7 @@ The Rainbow Road is an abstraction layer of infrastructure that allows seamless 
     * Blast: https://www.geckoterminal.com/blast/archly-blast/pools
     * BNB Chain: https://www.geckoterminal.com/bsc/archly-bsc/pools
     * Cronos: https://www.geckoterminal.com/cro/archly-cronos/pools
+    * Ethereum: https://www.geckoterminal.com/eth/archly-ethereum/pools
     * Fantom: https://www.geckoterminal.com/ftm/archly-ftm/pools
     * Filecoin: https://www.geckoterminal.com/filecoin/archly-filecoin/pools
     * Fraxtal: https://www.geckoterminal.com/fraxtal/archly-fraxtal/pools
@@ -58,5 +59,6 @@ The Rainbow Road is an abstraction layer of infrastructure that allows seamless 
     * Optimism: https://www.geckoterminal.com/optimism/archly-optimism/pools
     * Polygon: https://www.geckoterminal.com/polygon_pos/archly-polygon/pools
     * Telos: https://www.geckoterminal.com/tlos/archly-telos/pools
+    * zkSync Era: https://www.geckoterminal.com/zksync/archly-zksync/pools
     * Zora: https://www.geckoterminal.com/zora-network/archly-zora/pools
 * Zealy: https://zealy.io/c/archlyfinance/questboard
