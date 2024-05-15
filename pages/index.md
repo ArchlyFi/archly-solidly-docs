@@ -23,7 +23,7 @@ The Rainbow Road is an abstraction layer of infrastructure that allows seamless 
 
 ## Reactor Chain
 
-Reactor is an EVM-compatible chain aiming to elevate the ve(3,3) experience and facilitate seamless operation across multiple chains within the Archly ecosystem. It will integrate into the Archly ecosystem alongside DEX and Rainbow Road, pushing the boundaries of possibility yet again. The chain distinguishes itself by prioritizing inclusivity and empowerment, diverging from other chains' approaches. Governed by Arc holders, particularly veArc holders, Reactor will uphold principles of simplicity, fairness, and forward thinking. Notably, governance extends across all chains, enabling true cross-chain governance with participation from veArc holders regardless of their chain. Arc will serve as the native gas token on Reactor, ensuring consistency across the ecosystem.
+Reactor is an EVM-compatible chain aiming to elevate the ve(3,3) experience and facilitate seamless operation across multiple chains within the Archly ecosystem. It will integrate into the Archly ecosystem alongside DEX and Rainbow Road, pushing the boundaries of possibility yet again. The chain distinguishes itself by prioritizing inclusivity and empowerment, diverging from other chains' approaches. Governed by Arc holders, particularly veArc holders, Reactor will uphold principles of simplicity, fairness, and forward thinking. Notably, governance will extend across all chains, enabling true cross-chain governance with participation from veArc holders regardless of their chain. Arc will serve as the native gas token on Reactor, ensuring consistency across the ecosystem.
 
 
 <Callout emoji="⚠️">
