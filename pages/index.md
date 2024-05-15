@@ -43,6 +43,7 @@ Reactor is an EVM-compatible chain aiming to elevate the ve(3,3) experience and 
 * Dune: https://dune.com/archly
 * DefiLlama: https://defillama.com/protocol/archly-finance
 * DappRadar: https://dappradar.com/multichain/exchanges/archly/
+* CoinGecko: https://www.coingecko.com/en/coins/archly-finance
 * GeckoTerminal: 
     * Arbitrum One: https://www.geckoterminal.com/arbitrum/archly-arbitrum/pools
     * Arbitrum Nova: https://www.geckoterminal.com/arbitrum_nova/archly-arbitrum-nova/pools
