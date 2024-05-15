@@ -1,10 +1,12 @@
 {
   "index": "Archly Finance",
+  "litepaper": "Litepaper",
   "dex": "DEX Overview",
   "road": "Rainbow Road Overview",
   "tokenomics": "Tokenomics and Emissions",
   "liquidity": "Liquidity Pools",
   "security": "Security",
+  "roadmap": "Roadmap",
   "faq": "Frequently Asked Questions",
   "legal": "Legal Disclaimer"
 }
