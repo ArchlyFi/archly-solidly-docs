@@ -22,5 +22,5 @@ Archly Finance's roadmap outlines a clear path towards enhancing cross-chain int
 | **Incentives Funding Automation** | Launch of automation to create weekly incentivizes for veArc holders. | Q2 2024 |
 | **Reactor Chain Testnet Launch** | Testnet deployment of the Reactor Chain. | Q3 2024 |
 | **Reactor Chain Mainnet Launch** | Mainnet deployment of the Reactor Chain, enabling cross-chain governance. | Q4 2024 / Q1 2025 |
-| **Ecosystem Funding Automation** | Implementation of chain-based automation to ensure proper funding of contracts. | Ongoing |
+| **Ecosystem Funding Automation** | Implementation of chain-based automation to ensure proper funding of Rainbow Road and Reactor contracts. | Ongoing |
 | **Cross-Chain Expansion** | Further expansion to support more EVM-compatible and non-EVM chains. | Ongoing |
