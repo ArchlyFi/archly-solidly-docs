@@ -21,7 +21,7 @@ DEX is a 100% permissionless liquidity solution for protocols on a wide range of
 
 The Rainbow Road is an abstraction layer of infrastructure that allows seamless cross-chain experiences to be built on top of blockchains. This is done by providing a layer that integrates with the underlying chains and other infrastructure protocols, removing the need for every app (Web2 and Web3) to repeat the same integration work to go cross-chain.
 
-## Reactor Chain
+### Reactor Chain
 
 Reactor is an EVM-compatible chain aiming to elevate the ve(3,3) experience and facilitate seamless operation across multiple chains within the Archly ecosystem. It will integrate into the Archly ecosystem alongside DEX and Rainbow Road, pushing the boundaries of possibility yet again. The chain distinguishes itself by prioritizing inclusivity and empowerment, diverging from other chains' approaches. Governed by Arc holders, particularly veArc holders, Reactor will uphold principles of simplicity, fairness, and forward thinking. Notably, governance will extend across all chains, enabling true cross-chain governance with participation from veArc holders regardless of their chain. Arc will serve as the native gas token on Reactor, ensuring consistency across the ecosystem.
 
