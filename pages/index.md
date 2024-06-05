@@ -36,6 +36,7 @@ Reactor is an EVM-compatible chain aiming to elevate the ve(3,3) experience and 
 * Website: https://archly.fi
 * Tutorial: https://youtu.be/8rt11F3qG1I?si=gG1uHNiRr0MJw0U-
 * Twitter: https://twitter.com/ArchlyFinance
+* Warpcast: https://warpcast.com/archly
 * Medium: https://archlyfi.medium.com
 * Telegram: https://t.me/ArchlyFinance
 * Discord: https://discord.gg/nZQZ2Br9yc
