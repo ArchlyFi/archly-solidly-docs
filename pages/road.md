@@ -1,7 +1,7 @@
 import Bleed from 'nextra-theme-docs/bleed'
 
 <Bleed>
-  ![Archly Finance Problem Statement](/archly_banner.png)
+  ![Archly Finance Rainbow Road](/archly_banner.png)
 </Bleed>
 
 &nbsp;

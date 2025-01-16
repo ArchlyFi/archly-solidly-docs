@@ -158,13 +158,14 @@ __Rainbow Road__
 | Fantom | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://ftmscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Filecoin | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://fvm.starboard.ventures/explorer/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
 | Fraxtal | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://fraxscan.com/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E#code) |
-| Kava | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://kavascan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9/contracts) |
+| Kava | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://kavascan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9?t=code) |
 | Mantle | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://explorer.mantle.xyz/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E/contracts) |
 | Metis | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://explorer.metis.io/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E/contract/1088/code) |
 | Mode | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://explorer.mode.network/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E?tab=contract) |
 | Neon | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://neonscan.org/address/0x9412316dc6c882ffc4fa1a01413b0c701b147b9e#contract) |
 | Optimism | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://optimistic.etherscan.io/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Polygon | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://polygonscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
+| Sonic | [0x9412316dc6c882ffc4fa1a01413b0c701b147b9e](https://sonicscan.org/address/0x9412316dc6c882ffc4fa1a01413b0c701b147b9e#code) |
 | Telos | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://www.teloscan.io/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#contract) |
 | Zeta | [0x9412316DC6C882ffc4FA1A01413b0C701b147B9E](https://zetachain.blockscout.com/address/0x9412316DC6C882ffc4FA1A01413b0C701b147B9E?tab=contract) |
 | zkSync Era | [0xEb484dddfAD4F89c0F72267c7d13752451831038](https://explorer.zksync.io/address/0xEb484dddfAD4F89c0F72267c7d13752451831038#contract) |
@@ -185,13 +186,14 @@ __Fee Collector Factory__
 | Fantom | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://ftmscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Filecoin | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://fvm.starboard.ventures/explorer/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
 | Fraxtal | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://fraxscan.com/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
-| Kava | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://kavascan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17/contracts) |
+| Kava | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://kavascan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17?t=code) |
 | Mantle | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://explorer.mantle.xyz/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F/contracts) |
 | Metis | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://explorer.metis.io/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F/contract/1088/code) |
 | Mode | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://explorer.mode.network/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F?tab=contract) |
 | Neon | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://neonscan.org/address/0xb17906d2c9f0457492077d2952f0ca333fe70b6f#contract) |
 | Optimism | [0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3](https://optimistic.etherscan.io/address/0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3#code) |
 | Polygon | [0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3](https://polygonscan.com/address/0xB98D4D0Ed40b47Ded99c9B17cE89C9bF09F22Ee3#code) |
+| Sonic | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://sonicscan.org/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F#code) |
 | Telos | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://www.teloscan.io/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#contract) |
 | Zeta | [0xb17906D2C9F0457492077D2952f0cA333Fe70B6F](https://zetachain.blockscout.com/address/0xb17906D2C9F0457492077D2952f0cA333Fe70B6F?tab=contract) |
 | zkSync Era | [0xBfDDBD9F71d2FB88923e0a7Fb06a5aa937D9F5fF](https://explorer.zksync.io/address/0xBfDDBD9F71d2FB88923e0a7Fb06a5aa937D9F5fF#contract) |
@@ -212,13 +214,14 @@ __ERC20 Transfer Handler__
 | Fantom | [0xb7A6501716C7930270F5634953862053B4227100](https://ftmscan.com/address/0xb7A6501716C7930270F5634953862053B4227100#code) |
 | Filecoin | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://fvm.starboard.ventures/explorer/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | Fraxtal | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://fraxscan.com/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
-| Kava | [0xEec547122f5EA2Edb34D46114c9c6A7c896f5041](https://kavascan.com/address/0xEec547122f5EA2Edb34D46114c9c6A7c896f5041/contracts) |
+| Kava | [0xEec547122f5EA2Edb34D46114c9c6A7c896f5041](https://kavascan.com/address/0xEec547122f5EA2Edb34D46114c9c6A7c896f5041?t=code) |
 | Mantle | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://explorer.mantle.xyz/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc/contracts) |
 | Metis | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://explorer.metis.io/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc/contract/1088/code) |
 | Mode | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://explorer.mode.network/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc?tab=contract) |
 | Neon | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://neonscan.org/address/0x8e4dd1749dfd63538ca3cef29b10f9e25605a4cc#contract) |
 | Optimism | [0xdD07Fd54d7a3668018fb731A091A1F7927897424](https://optimistic.etherscan.io/address/0xdD07Fd54d7a3668018fb731A091A1F7927897424#code) |
 | Polygon | [0x10dA2d78420cE6FEAFA090663e9d0915Caa041c4](https://polygonscan.com/address/0x10dA2d78420cE6FEAFA090663e9d0915Caa041c4#code) |
+| Sonic | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://sonicscan.org/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc#code) |
 | Telos | [0x9194b4F9A8DB883A870fa5Eba998aA4a6DD97e3B](https://www.teloscan.io/address/0x9194b4F9A8DB883A870fa5Eba998aA4a6DD97e3B#contract) |
 | Zeta | [0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc](https://zetachain.blockscout.com/address/0x8E4dd1749dfD63538Ca3ceF29b10f9E25605A4cc?tab=contract) |
 | zkSync Era | [0x71071F3b894045329D392d2201Fc841e1AB211b8](https://explorer.zksync.io/address/0x71071F3b894045329D392d2201Fc841e1AB211b8#contract) |
@@ -239,13 +242,14 @@ __veArc Transfer Handler__
 | Fantom | [0x30278A2DAECa1088152DA4a216c545c65B1490f8](https://ftmscan.com/address/0x30278A2DAECa1088152DA4a216c545c65B1490f8#code) |
 | Filecoin | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://fvm.starboard.ventures/explorer/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347#code) |
 | Fraxtal | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://fraxscan.com/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347#code) |
-| Kava | [0x01Ce32DF6C7D016C9bf6dce5e07Cb95FA9DF4895](https://kavascan.com/address/0x01Ce32DF6C7D016C9bf6dce5e07Cb95FA9DF4895/contracts) |
+| Kava | [0x01Ce32DF6C7D016C9bf6dce5e07Cb95FA9DF4895](https://kavascan.com/address/0x01Ce32DF6C7D016C9bf6dce5e07Cb95FA9DF4895?t=code) |
 | Mantle | [0xEfBC28a489265Ec91757b243Af6203Baec0B4B00](https://explorer.mantle.xyz/address/0xEfBC28a489265Ec91757b243Af6203Baec0B4B00) |
 | Metis | [0xEfBC28a489265Ec91757b243Af6203Baec0B4B00](https://explorer.metis.io/address/0xEfBC28a489265Ec91757b243Af6203Baec0B4B00/contract/1088/code) |
 | Mode | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://explorer.mode.network/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347?tab=contract) |
 | Neon | [0xEfBC28a489265Ec91757b243Af6203Baec0B4B00](https://neonscan.org/address/0xefbc28a489265ec91757b243af6203baec0b4b00#contract) |
 | Optimism | [0x708514080FBC9F7cd597571fD5CebFfD2b03dcf5](https://optimistic.etherscan.io/address/0x708514080FBC9F7cd597571fD5CebFfD2b03dcf5#code) |
 | Polygon | [0x120b672B7977494Bb64B7b35B158Ff75e5E1f4d4](https://polygonscan.com/address/0x120b672B7977494Bb64B7b35B158Ff75e5E1f4d4#code) |
+| Sonic | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://sonicscan.org/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347#code) |
 | Telos | [0xB7d01d3978d2155A9B5c50035dbd89114BE6C203](https://www.teloscan.io/address/0xB7d01d3978d2155A9B5c50035dbd89114BE6C203#contract) |
 | Zeta | [0xE23C611dbdeeA723e1979edfE109F0F61f75c347](https://zetachain.blockscout.com/address/0xE23C611dbdeeA723e1979edfE109F0F61f75c347?tab=contract) |
 | zkSync Era | [0xF80adb93165E1dEC3dA4B8F3a9b709b734D26f03](https://explorer.zksync.io/address/0xF80adb93165E1dEC3dA4B8F3a9b709b734D26f03#contract) |
@@ -266,13 +270,14 @@ __DEX Weekly Update Handler__
 | Fantom | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://ftmscan.com/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
 | Filecoin | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://fvm.starboard.ventures/explorer/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Fraxtal | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://fraxscan.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
-| Kava | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://kavascan.com/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7/contracts) |
+| Kava | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://kavascan.com/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7?t=code) |
 | Mantle | [0x4f91C473655B87D844130785081F55EF422f4ACA](https://explorer.mantle.xyz/address/0x4f91C473655B87D844130785081F55EF422f4ACA/contracts) |
 | Metis | [0x4f91C473655B87D844130785081F55EF422f4ACA](https://explorer.metis.io/address/0x4f91C473655B87D844130785081F55EF422f4ACA/contract/1088/code) |
 | Mode | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://explorer.mode.network/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9?tab=contract) |
 | Neon | [0x4f91C473655B87D844130785081F55EF422f4ACA](https://neonscan.org/address/0x4f91c473655b87d844130785081f55ef422f4aca#contract) |
 | Optimism | [0x339dec659aD3ccCB45F298365749AA96a66CD80D](https://optimistic.etherscan.io/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code) |
 | Polygon | [0x339dec659aD3ccCB45F298365749AA96a66CD80D](https://polygonscan.com/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code) |
+| Sonic | TBD |
 | Telos | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://www.teloscan.io/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#contract) |
 | Zeta | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://zetachain.blockscout.com/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9?tab=contract) |
 | zkSync Era | [0x0E83A9237E6475eB00eED787edfC711232946156](https://explorer.zksync.io/address/0x0E83A9237E6475eB00eED787edfC711232946156#contract) |
@@ -299,6 +304,7 @@ __Chainlink Token Transfer Handler__
 | Neon | TBD |
 | Optimism | [0x5295cAA712B9753fB66A0DC617EB2Eb435e1F12b](https://optimistic.etherscan.io/address/0x5295cAA712B9753fB66A0DC617EB2Eb435e1F12b#code) |
 | Polygon | [0x0cB6A793CDE590917ae54D268c13a3f9Bb1dbc6A](https://polygonscan.com/address/0x0cB6A793CDE590917ae54D268c13a3f9Bb1dbc6A#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -319,13 +325,14 @@ __Chainlink Data Feed Factory__
 | Fantom | TBD |
 | Filecoin | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://fvm.starboard.ventures/explorer/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Fraxtal | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://fraxscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
-| Kava | [0x7465aE4fd3Ec52a56A6fd78fB4f4502191BfD60b](https://kavascan.com/address/0x7465aE4fd3Ec52a56A6fd78fB4f4502191BfD60b/contracts) |
+| Kava | [0x7465aE4fd3Ec52a56A6fd78fB4f4502191BfD60b](https://kavascan.com/address/0x7465aE4fd3Ec52a56A6fd78fB4f4502191BfD60b?t=code) |
 | Mantle | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://explorer.mantle.xyz/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F/contracts) |
 | Metis | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://explorer.metis.io/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F/contract/1088/code) |
 | Mode | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://explorer.mode.network/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17?tab=contract) |
 | Neon | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://neonscan.org/address/0x9d1a576ef61e734cd0272a8652fad5a18fb1337f#contract) |
 | Optimism | TBD |
 | Polygon | TBD |
+| Sonic | TBD |
 | Telos | [0x4aCb1Bc3813432311948876102B7542560ee1f25](https://www.teloscan.io/address/0x4aCb1Bc3813432311948876102B7542560ee1f25#contract) |
 | Zeta | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://zetachain.blockscout.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17?tab=contract) |
 | zkSync Era | [0x3E21E1CefcDFd8bB668fa2A14485026c20428f41](https://explorer.zksync.io/address/0x3E21E1CefcDFd8bB668fa2A14485026c20428f41#contract) |
@@ -346,13 +353,14 @@ __Chainlink Data Feed Handler__
 | Fantom | TBD |
 | Filecoin | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://fvm.starboard.ventures/explorer/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
 | Fraxtal | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://fraxscan.com/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E#code) |
-| Kava | [0x2eBdCD5F200B62f2AD8A241fBbCe4df5158A2295](https://kavascan.com/address/0x2eBdCD5F200B62f2AD8A241fBbCe4df5158A2295/contracts) |
+| Kava | [0x2eBdCD5F200B62f2AD8A241fBbCe4df5158A2295](https://kavascan.com/address/0x2eBdCD5F200B62f2AD8A241fBbCe4df5158A2295?t=code) |
 | Mantle | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://explorer.mantle.xyz/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17/contracts) |
 | Metis | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://explorer.metis.io/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17/contract/1088/code) |
 | Mode | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://explorer.mode.network/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E?tab=contract) |
 | Neon | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://neonscan.org/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#contract) |
 | Optimism | TBD|
 | Polygon | TBD |
+| Sonic | TBD |
 | Telos | [0x8a382156Bf6484F6C0ff813acdF809470795CDD0](https://www.teloscan.io/address/0x8a382156Bf6484F6C0ff813acdF809470795CDD0#contract) |
 | Zeta | [0xfC775F6D51DF10c56bF653aE592c7904598dc35E](https://zetachain.blockscout.com/address/0xfC775F6D51DF10c56bF653aE592c7904598dc35E?tab=contract) |
 | zkSync Era | [0xbc8D98C4D43a7c14189a4b3A5e7f21e7CB5abFB3](https://explorer.zksync.io/address/0xbc8D98C4D43a7c14189a4b3A5e7f21e7CB5abFB3#contract) |
@@ -380,6 +388,7 @@ __Chainlink Receiver v1.2.0__
 | Neon | TBD |
 | Optimism | [0xAE7cFfe5fF17a509d4f724c002519e8d1f2A1A5a](https://optimistic.etherscan.io/address/0xAE7cFfe5fF17a509d4f724c002519e8d1f2A1A5a#code) |
 | Polygon | [0x63442B9ADc73D87fE31D3fE1d5aC45abD5772911](https://polygonscan.com/address/0x63442B9ADc73D87fE31D3fE1d5aC45abD5772911#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -407,6 +416,7 @@ __Chainlink Receiver v1.0.0__
 | Neon | TBD |
 | Optimism | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://optimistic.etherscan.io/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F#code) |
 | Polygon | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://polygonscan.com/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -434,6 +444,7 @@ __Chainlink Sender v1.2.0__
 | Neon | TBD |
 | Optimism | [0xfe7C6aDbb0450b0B3e908724346eFcaDd5E7a0D3](https://optimistic.etherscan.io/address/0xfe7C6aDbb0450b0B3e908724346eFcaDd5E7a0D3#code) |
 | Polygon | [0x54c279e073A600545B4acbEBf8e8c7B18eC04281](https://polygonscan.com/address/0x54c279e073A600545B4acbEBf8e8c7B18eC04281#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -461,6 +472,7 @@ __Chainlink Sender v1.0.0__
 | Neon | TBD |
 | Optimism | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://optimistic.etherscan.io/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
 | Polygon | [0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17](https://polygonscan.com/address/0xDa25A4e7407b95883D4B038b394Bf607CCEE4b17#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -488,6 +500,7 @@ __Chainlink Token Receiver v1.2.0__
 | Neon | TBD |
 | Optimism | [0xcFeEA73F209e81D731DD3E395C6d1CEc846e331B](https://optimistic.etherscan.io/address/0xcFeEA73F209e81D731DD3E395C6d1CEc846e331B#code) |
 | Polygon | [0x718CdeB524B1d5A88B4E8437545784cd457d22C4](https://polygonscan.com/address/0x718CdeB524B1d5A88B4E8437545784cd457d22C4#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -515,6 +528,7 @@ __Chainlink Token Sender v1.2.0__
 | Neon | TBD |
 | Optimism | [0x29C8d266438292c8B0BCCA659DF2Db122b7A9E51](https://optimistic.etherscan.io/address/0x29C8d266438292c8B0BCCA659DF2Db122b7A9E51#code) |
 | Polygon | [0xE192f3793d026F1e4bCdd8e7DF22D09Ef9306953](https://polygonscan.com/address/0xE192f3793d026F1e4bCdd8e7DF22D09Ef9306953#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -535,13 +549,14 @@ __Axelar Receiver__
 | Fantom | [0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC](https://ftmscan.com/address/0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC#code) |
 | Filecoin | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://fvm.starboard.ventures/explorer/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
 | Fraxtal | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://fraxscan.com/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A#code) |
-| Kava | [0xFD7A105225433c05fE0E5851df7AF5C00b245dF8](https://kavascan.com/address/0xFD7A105225433c05fE0E5851df7AF5C00b245dF8/contracts) |
+| Kava | [0xFD7A105225433c05fE0E5851df7AF5C00b245dF8](https://kavascan.com/address/0xFD7A105225433c05fE0E5851df7AF5C00b245dF8?t=code) |
 | Mantle | [0x877fe019d5320bc5A1ab6d72f05D13ba8A651350](https://explorer.mantle.xyz/address/0x877fe019d5320bc5A1ab6d72f05D13ba8A651350/contracts) |
 | Metis | TBD |
 | Mode | TBD |
 | Neon | TBD |
 | Optimism | [0x273C9c5766c0c2441d778814c5d68D847c022f00](https://optimistic.etherscan.io/address/0x273C9c5766c0c2441d778814c5d68D847c022f00#code) |
 | Polygon | [0x273C9c5766c0c2441d778814c5d68D847c022f00](https://polygonscan.com/address/0x273C9c5766c0c2441d778814c5d68D847c022f00#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -562,13 +577,14 @@ __Axelar Sender__
 | Fantom | [0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9](https://ftmscan.com/address/0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9#code) |
 | Filecoin | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://fvm.starboard.ventures/explorer/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
 | Fraxtal | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://fraxscan.com/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC#code) |
-| Kava | [0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC](https://kavascan.com/address/0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC/contracts) |
+| Kava | [0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC](https://kavascan.com/address/0x027d732749992c7b12D8c48a08eFCcE9Cb1288BC?t=code) |
 | Mantle | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://explorer.mantle.xyz/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A/contracts) |
 | Metis | TBD |
 | Mode | TBD |
 | Neon | TBD |
 | Optimism | [0xb162BF709505765605B447F9817acbF428cB86F6](https://optimistic.etherscan.io/address/0xb162BF709505765605B447F9817acbF428cB86F6#code) |
 | Polygon | [0xb162BF709505765605B447F9817acbF428cB86F6](https://polygonscan.com/address/0xb162BF709505765605B447F9817acbF428cB86F6#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -589,13 +605,14 @@ __LayerZero Receiver__
 | Fantom | [0x492535a017262d121D254B20398cb716575Cc9B8](https://ftmscan.com/address/0x492535a017262d121D254B20398cb716575Cc9B8#code) |
 | Filecoin | TBD |
 | Fraxtal | [0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee](https://fraxscan.com/address/0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee#code) |
-| Kava | [0xE564E8F21E93088a53fa2164A95DB6fE45309f99](https://kavascan.com/address/0xE564E8F21E93088a53fa2164A95DB6fE45309f99/contracts) |
+| Kava | [0xE564E8F21E93088a53fa2164A95DB6fE45309f99](https://kavascan.com/address/0xE564E8F21E93088a53fa2164A95DB6fE45309f99?t=code) |
 | Mantle | [0xc23350F2bf5b0e368B93ddC40E815de10a90C0c3](https://explorer.mantle.xyz/address/0xc23350F2bf5b0e368B93ddC40E815de10a90C0c3/contracts) |
 | Metis | [0x877fe019d5320bc5A1ab6d72f05D13ba8A651350](https://explorer.metis.io/address/0x877fe019d5320bc5A1ab6d72f05D13ba8A651350/contract/1088/code) |
 | Mode | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://explorer.mode.network/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A?tab=contract) |
 | Neon | TBD |
 | Optimism | [0xE0bB58736b5C373Ecd104068e4Ab57399A3b16D7](https://optimistic.etherscan.io/address/0xE0bB58736b5C373Ecd104068e4Ab57399A3b16D7#code) |
 | Polygon | [0x724f9A247A6755d5Fd93e0cf1e563F9441523618](https://polygonscan.com/address/0x724f9A247A6755d5Fd93e0cf1e563F9441523618#code) |
+| Sonic | [0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9](https://sonicscan.org/address/0x9DE5b4928296D96f48Fe67ebB2cA1556827fc6A9#code) |
 | Telos | [0x52093032E619C1493206CF52c47B41E5b7964bce](https://www.teloscan.io/address/0x52093032E619C1493206CF52c47B41E5b7964bce#contract) |
 | Zeta | TBD |
 | zkSync Era | [0x12BEC3a4FD7e8e258e4e42e92FDCe9BE6F28D940](https://explorer.zksync.io/address/0x12BEC3a4FD7e8e258e4e42e92FDCe9BE6F28D940#contract) |
@@ -616,13 +633,14 @@ __LayerZero Sender__
 | Fantom | [0x639126426445b709e7b67f210604115c277fdFaA](https://ftmscan.com/address/0x639126426445b709e7b67f210604115c277fdFaA#code) |
 | Filecoin | TBD |
 | Fraxtal | [0x193A2D15a9A8fA02301116d4f3666619154BEeB7](https://fraxscan.com/address/0x193A2D15a9A8fA02301116d4f3666619154BEeB7#code) |
-| Kava | [0x639126426445b709e7b67f210604115c277fdFaA](https://kavascan.com/address/0x639126426445b709e7b67f210604115c277fdFaA/contracts) |
+| Kava | [0x639126426445b709e7b67f210604115c277fdFaA](https://kavascan.com/address/0x639126426445b709e7b67f210604115c277fdFaA?t=code) |
 | Mantle | [0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee](https://explorer.mantle.xyz/address/0xDc2B62D05578A1f3d69c498dF7fF260152bCB6Ee/contracts) |
 | Metis | [0x523073f029C889242beBFbB7eE3BDaB52942a39A](https://explorer.metis.io/address/0x523073f029C889242beBFbB7eE3BDaB52942a39A/contract/1088/code) |
 | Mode | [0xbf9813FC8f99759A77D877F812ff065D2070F1cC](https://explorer.mode.network/address/0xbf9813FC8f99759A77D877F812ff065D2070F1cC?tab=contract) |
 | Neon | TBD |
 | Optimism | [0x2d45D18bc844CFb242B77cC5943bd318dcAd5407](https://optimistic.etherscan.io/address/0x2d45D18bc844CFb242B77cC5943bd318dcAd5407#code) |
 | Polygon | [0x2d45D18bc844CFb242B77cC5943bd318dcAd5407](https://polygonscan.com/address/0x2d45D18bc844CFb242B77cC5943bd318dcAd5407#code) |
+| Sonic | [0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F](https://sonicscan.org/address/0x9d1A576EF61e734CD0272a8652Fad5A18FB1337F#code) |
 | Telos | [0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9](https://www.teloscan.io/address/0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9#contract) |
 | Zeta | TBD |
 | zkSync Era | [0x63954018EdC88b17950e70Ade6bB606131265f02](https://explorer.zksync.io/address/0x63954018EdC88b17950e70Ade6bB606131265f02#contract) |
@@ -643,13 +661,14 @@ __CryptoLink Receiver__
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
-| Kava | [0xfe7C6aDbb0450b0B3e908724346eFcaDd5E7a0D3](https://kavascan.com/address/0xfe7C6aDbb0450b0B3e908724346eFcaDd5E7a0D3/contracts) |
+| Kava | [0xfe7C6aDbb0450b0B3e908724346eFcaDd5E7a0D3](https://kavascan.com/address/0xfe7C6aDbb0450b0B3e908724346eFcaDd5E7a0D3?t=code) |
 | Mantle | TBD |
 | Metis | TBD |
 | Mode | TBD |
 | Neon | [0x17A5B068722B575134065b58DCA70ECA895EfB81](https://neonscan.org/address/0x17A5B068722B575134065b58DCA70ECA895EfB81#code) |
 | Optimism | TBD |
 | Polygon | TBD |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -670,13 +689,14 @@ __CryptoLink Sender__
 | Fantom | TBD |
 | Filecoin | TBD |
 | Fraxtal | TBD |
-| Kava | [0x2592248F13d142fF11AB585319149F92C859dDA8](https://kavascan.com/address/0x2592248F13d142fF11AB585319149F92C859dDA8/contracts) |
+| Kava | [0x2592248F13d142fF11AB585319149F92C859dDA8](https://kavascan.com/address/0x2592248F13d142fF11AB585319149F92C859dDA8?t=code) |
 | Mantle | TBD |
 | Metis | TBD |
 | Mode | TBD |
 | Neon | TBD |
 | Optimism | TBD |
 | Polygon | TBD |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -704,6 +724,7 @@ __deBridge Receiver__
 | Neon | [0x877fe019d5320bc5A1ab6d72f05D13ba8A651350](https://neonscan.org/address/0x877fe019d5320bc5A1ab6d72f05D13ba8A651350#contract) |
 | Optimism | TBD |
 | Polygon | [0x285d802117856ab0005771D572FD8c66912EA437](https://polygonscan.com/address/0x285d802117856ab0005771D572FD8c66912EA437#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -731,6 +752,7 @@ __deBridge Sender__
 | Neon | [0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9](https://neonscan.org/address/0x0d6cf9AF5062e20dE91480eF61E44F5C97C124D9#contract) |
 | Optimism | TBD |
 | Polygon | [0x8c2c06321151F2236eaFDB0816edb9Cb68dFCA57](https://polygonscan.com/address/0x8c2c06321151F2236eaFDB0816edb9Cb68dFCA57#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -758,6 +780,7 @@ __DEX Weekly Updater__
 | Neon | TBD |
 | Optimism | TBD |
 | Polygon | [0xA28cEbC0f64Bb3D1974a3DF9441E2dF8414E376F](https://polygonscan.com/address/0xA28cEbC0f64Bb3D1974a3DF9441E2dF8414E376F#code) |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
@@ -785,10 +808,39 @@ __Chainlink Data Feed Publisher__
 | Neon | TBD |
 | Optimism | TBD |
 | Polygon | TBD |
+| Sonic | TBD |
 | Telos | TBD |
 | Zeta | TBD |
 | zkSync Era | TBD |
 | Zora | TBD |
+
+__Auto Briber__
+
+| Chain | Address |
+| :--- | :--- |
+| Arbitrum Nova | [0xfaef9c81f77304936B20F9042efb84350F39C432](https://nova.arbiscan.io/address/0xfaef9c81f77304936B20F9042efb84350F39C432#code) |
+| Arbitrum One | [0xfaef9c81f77304936B20F9042efb84350F39C432](https://arbiscan.io/address/0xfaef9c81f77304936B20F9042efb84350F39C432#code) |
+| Avalanche | [0xD7F6CB6f82713f0Db7A58265e7d345F798c92EB4](https://snowtrace.io/address/0xD7F6CB6f82713f0Db7A58265e7d345F798c92EB4#code) |
+| Base | [0xfaef9c81f77304936B20F9042efb84350F39C432](https://basescan.org/address/0xfaef9c81f77304936B20F9042efb84350F39C432#code) |
+| Blast | [0xf239924a66A7546254F61266e48Cd60573Bd2BdF](https://blastscan.io/address/0xf239924a66A7546254F61266e48Cd60573Bd2BdF#code) |
+| BNB Chain | [0x5FbD5f5041cE72D75dbf09e775517bEfC63E4919](https://bscscan.com/address/0x5FbD5f5041cE72D75dbf09e775517bEfC63E4919#code) |
+| Cronos | [0x41e127bAeBA66F9D516cd9f106F41767C347Dad0](https://cronoscan.com/address/0x41e127bAeBA66F9D516cd9f106F41767C347Dad0#code) |
+| Ethereum | [0x41e127bAeBA66F9D516cd9f106F41767C347Dad0](https://etherscan.io/address/0x41e127bAeBA66F9D516cd9f106F41767C347Dad0#code) |
+| Fantom | [0x6890Fcd8D616b76883459974465b0Ead71BFd2EB](https://ftmscan.com/address/0x6890Fcd8D616b76883459974465b0Ead71BFd2EB#code) |
+| Filecoin | [0x4F447052710BbC11E0B4bB3c54132d2Ef02978b9](https://fvm.starboard.ventures/explorer/address/0x4F447052710BbC11E0B4bB3c54132d2Ef02978b9#code) |
+| Fraxtal | [0x41e127bAeBA66F9D516cd9f106F41767C347Dad0](https://fraxscan.com/address/0x41e127bAeBA66F9D516cd9f106F41767C347Dad0#code) |
+| Kava | [0xD1C13A1a433594d936Eec3E66c1f72693CE8F95E](https://kavascan.com/address/0xD1C13A1a433594d936Eec3E66c1f72693CE8F95E?t=code) |
+| Mantle | [0x5557303d1d6263908158A8F1D520d75fDf7F78aD](https://explorer.mantle.xyz/address/0x5557303d1d6263908158A8F1D520d75fDf7F78aD/contracts) |
+| Metis | [0x4F447052710BbC11E0B4bB3c54132d2Ef02978b9](https://explorer.metis.io/address/0x4F447052710BbC11E0B4bB3c54132d2Ef02978b9/contract/1088/code) |
+| Mode | [0x5557303d1d6263908158A8F1D520d75fDf7F78aD](https://explorer.mode.network/address/0x5557303d1d6263908158A8F1D520d75fDf7F78aD?tab=contract) |
+| Neon | TBD |
+| Optimism | [0x6890Fcd8D616b76883459974465b0Ead71BFd2EB](https://optimistic.etherscan.io/address/0x6890Fcd8D616b76883459974465b0Ead71BFd2EB#code) |
+| Polygon | [0x8E4C321C76939cC3388c5Fa8b8D669175199BEec](https://polygonscan.com/address/0x8E4C321C76939cC3388c5Fa8b8D669175199BEec#code) |
+| Sonic | [0xe765efeb17ea1e609aB8cE282DC878F13eCD76b4](https://sonicscan.org/address/0xe765efeb17ea1e609aB8cE282DC878F13eCD76b4#code) |
+| Telos | [0xCb133Eb98A5782e212fa61c7D4B205Aa64Ee29eC](https://www.teloscan.io/address/0xCb133Eb98A5782e212fa61c7D4B205Aa64Ee29eC#contract) |
+| Zeta | [0x7920980b794Ca131ed9d7F40f97ec1C26d6505F9](https://zetachain.blockscout.com/address/0x7920980b794Ca131ed9d7F40f97ec1C26d6505F9?tab=contract) |
+| zkSync Era | [0x0A3ab229b0Ae3Dc3cCd889D9D1E803e8BAaF5560](https://explorer.zksync.io/address/0x0A3ab229b0Ae3Dc3cCd889D9D1E803e8BAaF5560#contract) |
+| Zora | [0xe1e6Db16f9d34685c1b71dB6B8A92a21a23b3a90](https://explorer.zora.energy/address/0xe1e6Db16f9d34685c1b71dB6B8A92a21a23b3a90?tab=contract) |
 
 ## Tokenlist
 
@@ -826,6 +878,8 @@ Optimism: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-o
 
 Polygon: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-polygon.json
 
+Sonic: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-sonic.json
+
 Telos: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-telos.json
 
 Zeta: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-zeta.json
@@ -856,6 +910,7 @@ Zora: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-zora.
 | Neon | 245022934 |
 | Optimism | 10 |
 | Polygon | 137 |
+| Sonic | 146 |
 | Telos | 40 |
 | Zeta | 7000 |
 | zkSync Era | 324 |
@@ -883,6 +938,7 @@ Zora: https://raw.githubusercontent.com/ArchlyFi/token-list/main/tokenlist-zora.
 | [Neon](https://neonscan.org/) |
 | [Optimism](https://optimistic.etherscan.io/) |
 | [Polygon](https://polygonscan.com/) |
+| [Sonic](https://sonicscan.org/) |
 | [Telos](https://www.teloscan.io/) |
 | [Zeta](https://zetachain.blockscout.com/) |
 | [zkSync Era](https://explorer.zksync.io/) |
