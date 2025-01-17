@@ -79,7 +79,7 @@ interface IHandler {
 }
 ```
 
-**target:** The `target` is the address of the recipient on the source and destination chains that the handler will perform actions against. This address will always be the same and will be the sender of the message (`msg.sender`) to ensure that consistency and security are maintained across chains, and that actions are properly authorized on both the source and destination chains.
+- **target:** The `target` is the address of the recipient on the source and destination chains that the handler will perform actions against. This address will always be the same and will be the sender of the message (`msg.sender`) to ensure that consistency and security are maintained across chains, and that actions are properly authorized on both the source and destination chains.
 - **payload**: The `payload` is the message or data that the handler will use to execute actions on the source and destination chains. **Note**: The payload will be identical on the source and destination to ensure consistency between the actions taken on the source chain and the corresponding actions taken on the destination chain.
 
 Once you’ve created a custom handler, you'll need to contact the Archly team on [Discord](https://discord.gg/nZQZ2Br9yc) or [Telegram](https://t.me/ArchlyFinance) to review and onboard your handler to the Rainbow Road platform.
