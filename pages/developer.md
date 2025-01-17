@@ -1,5 +1,3 @@
-Rainbow Road Developer Resources
-
 import Bleed from 'nextra-theme-docs/bleed'
 
 <Bleed>
