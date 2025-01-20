@@ -13,7 +13,7 @@ export default {
   footerEditLink: ``,
   logo: (
     <>
-      <img src="/archly.png" alt="Archly Finance" style={{height: '50px', padding: '0 5px'}} />
+      <img src="/archly.png" alt="Archly" style={{height: '50px', padding: '0 5px'}} />
       <span className="mr-2 font-extrabold md:inline">Archly Finance</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         
@@ -27,15 +27,15 @@ export default {
 
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@ArchlyFi" />
-      <meta name="twitter:title" content="Archly Finance" />
-      <meta name="twitter:description" content="Archly Finance is an automated market maker (AMM or simply, decentralized exchange aka DEX) on Telos EVM." />
+      <meta name="twitter:title" content="Archly" />
+      <meta name="twitter:description" content="Archly works to empower any user on any chain to engage in seamless cross-chain experiences." />
       <meta name="twitter:image" content="https://docs.archly.fi/archly_banner.png" />
 
-      <meta property="og:title" content="Archly Finance" />
-      <meta property="og:description" content="Archly Finance is an automated market maker (AMM or simply, decentralized exchange aka DEX) on Telos EVM." />
+      <meta property="og:title" content="Archly" />
+      <meta property="og:description" content="Archly works to empower any user on any chain to engage in seamless cross-chain experiences." />
       <meta property="og:image" content="https://docs.archly.fi/archly_banner.png" />
 
-      <meta name="apple-mobile-web-app-title" content="Archly Finance" />
+      <meta name="apple-mobile-web-app-title" content="Archly" />
       <link rel="stylesheet" href="/fonts.css" />
     </>
   )
