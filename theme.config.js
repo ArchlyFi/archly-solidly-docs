@@ -28,12 +28,12 @@ export default {
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@ArchlyFi" />
       <meta name="twitter:title" content="Archly" />
-      <meta name="twitter:description" content="Archly works to empower any user on any chain to engage in seamless cross-chain experiences." />
-      <meta name="twitter:image" content="https://docs.archly.fi/archly_banner.png" />
+      <meta name="twitter:description" content="Empowering users to seamlessly scale onchain and offchain." />
+      <meta name="twitter:image" content="https://docs.archly.fi/the_future.jpg" />
 
       <meta property="og:title" content="Archly" />
-      <meta property="og:description" content="Archly works to empower any user on any chain to engage in seamless cross-chain experiences." />
-      <meta property="og:image" content="https://docs.archly.fi/archly_banner.png" />
+      <meta property="og:description" content="Empowering users to seamlessly scale onchain and offchain." />
+      <meta property="og:image" content="https://docs.archly.fi/the_future.jpg" />
 
       <meta name="apple-mobile-web-app-title" content="Archly" />
       <link rel="stylesheet" href="/fonts.css" />
